@@ -58,6 +58,8 @@ edfadd5832eb1a79b5bb7585e1b662226d56d27789dfa0a2cca5505be4c512b8  1853  archive/
 fbbda5db7bbae605c56a3494f63e0f11885a437406bf885d180ef86ebeab23b1  3995  archive/docs/progress/evidence/orthogonal-atomic-min-content-census-v1.json
 b9ed7ecc26c46c96b44dee784849235be2f8119019944184e1dc5ab59fb07b14  6854  archive/docs/progress/evidence/overflow-continuation-principal-box-census-v1.json
 e8953a804d91624251d581c4762786907e1dccacc34ab3f675f2f882cda61483  18633  archive/docs/progress/evidence/painter-candidate-variants-census-v1.json
+92a769ab99b145b2761153aced9685c54a1f3141f32e01c608771f8408548da9  315  archive/docs/progress/evidence/pointer-window-leave-census-v1.json
+6b6c17c0c961199fa988f55eef5d46a3b85e9db65a16027b0051c22e3af8464e  320  archive/docs/progress/evidence/pointer-window-leave-coverage-v1.json
 3423b3e19b9d6f037924b3e078b7f11594b4a793ecf9adca884321775927bc4c  4194  archive/docs/progress/evidence/radial-gradient-tile-space-census-v1.json
 d4583f0c9f20e05993e4e2e067b621394eefd6b10f8d44910a967fbde78e0c3d  1534  archive/docs/progress/evidence/repeat-scanline-tie-census-v1.json
 b9584c7aafbd90fd3415f74085c56cbfcb5a607292d50ebb00820391a6086935  22334  archive/docs/progress/evidence/replaced-image-rect-fill-census-v1.json
