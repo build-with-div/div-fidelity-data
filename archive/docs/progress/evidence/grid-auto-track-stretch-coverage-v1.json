@@ -1,0 +1,21 @@
+{
+ "base_commit": "1ac225386cb03af924f09b4598aa8d492ed28096",
+ "head_commit": "ee5cc5a8a8367221bcf47284081c1f6f6e53373d",
+ "comparisons": 4204,
+ "status_changed": 0,
+ "openui_changed": 6,
+ "gains": 0,
+ "losses": 0,
+ "base_exact": 2227,
+ "head_exact": 2227,
+ "only_in_base": [],
+ "only_in_head": [],
+ "changed_ids": [
+  "desktop-1280x720@1.25 wpt/css_grid/subgrid_line-names-005-ref different->different",
+  "desktop-1280x720@1.25 wpt/css_grid/subgrid_repeat-auto-fill-005-ref different->different",
+  "desktop-1280x720@1.25 wpt/css_grid/subgrid_writing-directions-002 different->different",
+  "desktop-1280x720@1.25 wpt/css_grid/subgrid_writing-directions-002-ref different->different",
+  "desktop-1920x1080@1.5 wpt/css_grid/subgrid_writing-directions-002 different->different",
+  "desktop-1920x1080@1.5 wpt/css_grid/subgrid_writing-directions-002-ref different->different"
+ ]
+}
