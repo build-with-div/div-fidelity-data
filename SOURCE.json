@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23204,
-      "bytes": 770965634,
-      "sha256": "68c9bfc4f77a8b192503fa7f88a644eee397ace195072e7d3e0e7811821d3ba5"
+      "files": 23206,
+      "bytes": 770966269,
+      "sha256": "86604ee472998c453d07fbed3a964942dcf0489051d509d0351c6ebcc7bcdf62"
     }
   },
   "additions": [
@@ -81,6 +81,14 @@
     {
       "path": "archive/docs/progress/evidence/selector-matching-coverage-v1.json",
       "source_commit": "acff7f6134537d0af3d716a62cd52382e3a85bf8"
+    },
+    {
+      "path": "archive/docs/progress/evidence/state-pseudo-classes-census-v1.json",
+      "source_commit": "3dad32630bcd8b2ba413c6bcf54dd1c4827ed01a"
+    },
+    {
+      "path": "archive/docs/progress/evidence/state-pseudo-classes-coverage-v1.json",
+      "source_commit": "3dad32630bcd8b2ba413c6bcf54dd1c4827ed01a"
     }
   ]
 }
