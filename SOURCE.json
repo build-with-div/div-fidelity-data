@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23202,
-      "bytes": 770964999,
-      "sha256": "72ac59c4fa0fce7f6b563a1ddb84544bf659abc6d13ce1aa9af00abcf1c31921"
+      "files": 23204,
+      "bytes": 770965634,
+      "sha256": "68c9bfc4f77a8b192503fa7f88a644eee397ace195072e7d3e0e7811821d3ba5"
     }
   },
   "additions": [
@@ -73,6 +73,14 @@
     {
       "path": "archive/docs/progress/evidence/selector-specificity-coverage-v1.json",
       "source_commit": "aa8c18d8f18e955fd9b918f31bb15bcd78f5f555"
+    },
+    {
+      "path": "archive/docs/progress/evidence/selector-matching-census-v1.json",
+      "source_commit": "acff7f6134537d0af3d716a62cd52382e3a85bf8"
+    },
+    {
+      "path": "archive/docs/progress/evidence/selector-matching-coverage-v1.json",
+      "source_commit": "acff7f6134537d0af3d716a62cd52382e3a85bf8"
     }
   ]
 }
