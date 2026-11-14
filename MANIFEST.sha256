@@ -39,6 +39,8 @@ b1ed072015d93e6a95b4f044e45c9456e8df9a8436b1ed74430142bb4ca11387  320  archive/d
 1962e8ded8460f2bd990c3f7f39a7c483a2b61acf8651a5f287585e43b1d2960  1855  archive/docs/progress/evidence/flex-vertical-table-item-size-census-v1.json
 dda9d129976f8c110fac963d221953e8c50a17c3d4f0850e9af5182bf7201d1f  2502  archive/docs/progress/evidence/floated-multicol-monolithic-overflow-census-v1.json
 c4d8fdb507e3c79c1b42e9e218e1f4bc43d2c1faafd8b2fa823b87560181dfad  2291  archive/docs/progress/evidence/forced-overflow-first-fragment-census-v1.json
+2ad09e25ed005a8ee91b49058be09e44512f16b140e8b207d1a2ee32895a24db  315  archive/docs/progress/evidence/form-state-pseudo-classes-census-v1.json
+3c72dd8c91087ad66c33c91cee56fd9068874cde1ffb91fb7d20dec8c6dfed75  320  archive/docs/progress/evidence/form-state-pseudo-classes-coverage-v1.json
 6197ca69963f39d362911d2f3991e980739b96ba31f649f23d2aa3c07482ae94  7494  archive/docs/progress/evidence/glyph-mask-a8-gamma-census-v1.json
 9389af048458dceb920dff26f43d90e9e1362a89d948e44e5310df062e86734b  6107  archive/docs/progress/evidence/gradient-tile-edge-census-v1.json
 dc3606a3f6074e28de07c402c6edf677f09c2935777ab9d9486cf486b9526cf7  315  archive/docs/progress/evidence/grid-auto-track-max-census-v1.json
