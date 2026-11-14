@@ -1,0 +1,32 @@
+{
+ "base_commit": "5b7b8e47d5bfbe1beeb52db3819922552b9dc136",
+ "base_exact": 22519,
+ "chromium_identical": 23728,
+ "comparisons": 23728,
+ "errors": [],
+ "gains": [
+  {
+   "base": "different",
+   "base_mismatched": 240,
+   "head": "exact",
+   "head_mismatched": 0,
+   "id": "wpt/css_flexbox/table-item-flex-percentage-width",
+   "profile": "desktop-1920x1080@1.5"
+  }
+ ],
+ "head_commit": "e6203f6445eb0397adc9d0aae1165a668398c251",
+ "head_exact": 22520,
+ "improved": [],
+ "losses": [],
+ "openui_changed": [
+  {
+   "base": "different",
+   "base_mismatched": 240,
+   "head": "exact",
+   "head_mismatched": 0,
+   "id": "wpt/css_flexbox/table-item-flex-percentage-width",
+   "profile": "desktop-1920x1080@1.5"
+  }
+ ],
+ "worsened": []
+}
