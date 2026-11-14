@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23200,
-      "bytes": 770964364,
-      "sha256": "ff532bc13be1b2581635d47d7c7860e58e81320c1fa51f597dd693ddb2dbcd35"
+      "files": 23202,
+      "bytes": 770964999,
+      "sha256": "72ac59c4fa0fce7f6b563a1ddb84544bf659abc6d13ce1aa9af00abcf1c31921"
     }
   },
   "additions": [
@@ -65,6 +65,14 @@
     {
       "path": "archive/docs/progress/evidence/flex-pass-cache-div-coverage-v1.json",
       "source_commit": "18fffb9ce36f413cca898e1cb2967fc7ab083232"
+    },
+    {
+      "path": "archive/docs/progress/evidence/selector-specificity-census-v1.json",
+      "source_commit": "aa8c18d8f18e955fd9b918f31bb15bcd78f5f555"
+    },
+    {
+      "path": "archive/docs/progress/evidence/selector-specificity-coverage-v1.json",
+      "source_commit": "aa8c18d8f18e955fd9b918f31bb15bcd78f5f555"
     }
   ]
 }
