@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23225,
-      "bytes": 771127105,
-      "sha256": "d3f3f5d209a33b3645f0318363b8850e527d022e8995ef17827ee7fccca79ba1"
+      "files": 23229,
+      "bytes": 780035254,
+      "sha256": "82e9c4535a57a5d89ad3225436a69b26e2e1ac71b619f126696064f63805ce1b"
     }
   },
   "additions": [
@@ -165,6 +165,22 @@
     {
       "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/rows-integer.json",
       "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/README.md",
+      "source_commit": "19269a7fee7da3e958471f7c73f094282962e058"
+    },
+    {
+      "path": "archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/summary.json",
+      "source_commit": "19269a7fee7da3e958471f7c73f094282962e058"
+    },
+    {
+      "path": "archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/census-rows.json",
+      "source_commit": "19269a7fee7da3e958471f7c73f094282962e058"
+    },
+    {
+      "path": "archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/coverage-rows.json",
+      "source_commit": "19269a7fee7da3e958471f7c73f094282962e058"
     }
   ]
 }

@@ -1,0 +1,383 @@
+{
+ "title": "First real-zoom Div census and CSS Grid coverage (RFC 0010)",
+ "date": "2026-11-16",
+ "oracle": "Chromium 147.0.7727.50; scale 1 without a device scale override, scales 1.25, 1.5 and 2 with --force-device-scale-factor and a viewport-only CDP override (deviceScaleFactor 0)",
+ "tolerance_pixels": 0,
+ "suites": {
+  "census": {
+   "base": {
+    "commit": "a9e9a46eab36cba553e594e529161fa3744900ac",
+    "chromium": {
+     "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+     "build_identity": "147.0.7727.50",
+     "capture_harness_sha256": "624824de1893e689fb62da0b89addb2aff0fb5ec457d637519cb3b8b36e71f38"
+    }
+   },
+   "head": {
+    "commit": "19269a7fee7da3e958471f7c73f094282962e058",
+    "chromium": {
+     "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+     "build_identity": "147.0.7727.50",
+     "capture_harness_sha256": "a239d29e82d9c835e73df318f2c1a513389334cf81cb7f0fffd1019b0a1ef225",
+     "device_scale_methods": {
+      "desktop-1280x720@1.25": "forced",
+      "desktop-1920x1080@1.5": "forced",
+      "legacy-800x600@1": "none",
+      "mobile-375x667@2": "forced"
+     }
+    }
+   },
+   "comparisons": 23728,
+   "exact": {
+    "old": 22539,
+    "new": 16287
+   },
+   "profiles": {
+    "legacy-800x600@1": {
+     "old_exact": 5888,
+     "new_exact": 5888,
+     "errors": 0,
+     "total": 5932
+    },
+    "mobile-375x667@2": {
+     "old_exact": 5767,
+     "new_exact": 5153,
+     "errors": 0,
+     "total": 5932
+    },
+    "desktop-1280x720@1.25": {
+     "old_exact": 5344,
+     "new_exact": 2183,
+     "errors": 0,
+     "total": 5932
+    },
+    "desktop-1920x1080@1.5": {
+     "old_exact": 5540,
+     "new_exact": 3063,
+     "errors": 0,
+     "total": 5932
+    }
+   },
+   "transitions": {
+    "legacy-800x600@1": {
+     "different->different": 44,
+     "exact->exact": 5888
+    },
+    "mobile-375x667@2": {
+     "different->different": 160,
+     "different->exact": 5,
+     "exact->different": 619,
+     "exact->exact": 5148
+    },
+    "desktop-1280x720@1.25": {
+     "different->different": 578,
+     "different->exact": 10,
+     "exact->different": 3171,
+     "exact->exact": 2173
+    },
+    "desktop-1920x1080@1.5": {
+     "different->different": 382,
+     "different->exact": 10,
+     "exact->different": 2487,
+     "exact->exact": 3053
+    }
+   },
+   "scale_1_chromium_frames": {
+    "identical": 5932
+   },
+   "areas": {
+    "css2_floats": {
+     "legacy-800x600@1": {
+      "exact": 164,
+      "total": 164
+     },
+     "mobile-375x667@2": {
+      "exact": 142,
+      "total": 164
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 29,
+      "total": 164
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 87,
+      "total": 164
+     }
+    },
+    "css_backgrounds": {
+     "legacy-800x600@1": {
+      "exact": 835,
+      "total": 845
+     },
+     "mobile-375x667@2": {
+      "exact": 748,
+      "total": 845
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 276,
+      "total": 845
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 364,
+      "total": 845
+     }
+    },
+    "css_box": {
+     "legacy-800x600@1": {
+      "exact": 87,
+      "total": 87
+     },
+     "mobile-375x667@2": {
+      "exact": 87,
+      "total": 87
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 10,
+      "total": 87
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 50,
+      "total": 87
+     }
+    },
+    "css_break": {
+     "legacy-800x600@1": {
+      "exact": 1235,
+      "total": 1244
+     },
+     "mobile-375x667@2": {
+      "exact": 1155,
+      "total": 1244
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 267,
+      "total": 1244
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 745,
+      "total": 1244
+     }
+    },
+    "css_display": {
+     "legacy-800x600@1": {
+      "exact": 82,
+      "total": 84
+     },
+     "mobile-375x667@2": {
+      "exact": 72,
+      "total": 84
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 61,
+      "total": 84
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 41,
+      "total": 84
+     }
+    },
+    "css_flexbox": {
+     "legacy-800x600@1": {
+      "exact": 1413,
+      "total": 1415
+     },
+     "mobile-375x667@2": {
+      "exact": 1150,
+      "total": 1415
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 466,
+      "total": 1415
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 593,
+      "total": 1415
+     }
+    },
+    "css_multicol": {
+     "legacy-800x600@1": {
+      "exact": 768,
+      "total": 770
+     },
+     "mobile-375x667@2": {
+      "exact": 647,
+      "total": 770
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 377,
+      "total": 770
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 477,
+      "total": 770
+     }
+    },
+    "css_overflow": {
+     "legacy-800x600@1": {
+      "exact": 515,
+      "total": 517
+     },
+     "mobile-375x667@2": {
+      "exact": 449,
+      "total": 517
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 262,
+      "total": 517
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 149,
+      "total": 517
+     }
+    },
+    "css_position": {
+     "legacy-800x600@1": {
+      "exact": 196,
+      "total": 200
+     },
+     "mobile-375x667@2": {
+      "exact": 174,
+      "total": 200
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 86,
+      "total": 200
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 150,
+      "total": 200
+     }
+    },
+    "css_sizing": {
+     "legacy-800x600@1": {
+      "exact": 593,
+      "total": 606
+     },
+     "mobile-375x667@2": {
+      "exact": 529,
+      "total": 606
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 349,
+      "total": 606
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 407,
+      "total": 606
+     }
+    }
+   },
+   "rows": "census-rows.json",
+   "forced_measurement_frames": {
+    "match": 69
+   }
+  },
+  "coverage": {
+   "base": {
+    "commit": "a9e9a46eab36cba553e594e529161fa3744900ac",
+    "chromium": {
+     "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+     "build_identity": "147.0.7727.50",
+     "capture_harness_sha256": "624824de1893e689fb62da0b89addb2aff0fb5ec457d637519cb3b8b36e71f38"
+    }
+   },
+   "head": {
+    "commit": "19269a7fee7da3e958471f7c73f094282962e058",
+    "chromium": {
+     "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+     "build_identity": "147.0.7727.50",
+     "capture_harness_sha256": "a239d29e82d9c835e73df318f2c1a513389334cf81cb7f0fffd1019b0a1ef225",
+     "device_scale_methods": {
+      "desktop-1280x720@1.25": "forced",
+      "desktop-1920x1080@1.5": "forced",
+      "legacy-800x600@1": "none",
+      "mobile-375x667@2": "forced"
+     }
+    }
+   },
+   "comparisons": 4204,
+   "exact": {
+    "old": 2227,
+    "new": 1459
+   },
+   "profiles": {
+    "legacy-800x600@1": {
+     "old_exact": 572,
+     "new_exact": 572,
+     "errors": 39,
+     "total": 1051
+    },
+    "mobile-375x667@2": {
+     "old_exact": 567,
+     "new_exact": 487,
+     "errors": 39,
+     "total": 1051
+    },
+    "desktop-1280x720@1.25": {
+     "old_exact": 529,
+     "new_exact": 183,
+     "errors": 39,
+     "total": 1051
+    },
+    "desktop-1920x1080@1.5": {
+     "old_exact": 559,
+     "new_exact": 217,
+     "errors": 39,
+     "total": 1051
+    }
+   },
+   "transitions": {
+    "legacy-800x600@1": {
+     "different->different": 440,
+     "error->error": 39,
+     "exact->exact": 572
+    },
+    "mobile-375x667@2": {
+     "different->different": 445,
+     "error->error": 39,
+     "exact->different": 80,
+     "exact->exact": 487
+    },
+    "desktop-1280x720@1.25": {
+     "different->different": 481,
+     "different->exact": 2,
+     "error->error": 39,
+     "exact->different": 348,
+     "exact->exact": 181
+    },
+    "desktop-1920x1080@1.5": {
+     "different->different": 452,
+     "different->exact": 1,
+     "error->error": 39,
+     "exact->different": 343,
+     "exact->exact": 216
+    }
+   },
+   "scale_1_chromium_frames": {
+    "identical": 1012,
+    "error in both": 39
+   },
+   "areas": {
+    "css_grid": {
+     "legacy-800x600@1": {
+      "exact": 572,
+      "total": 1051
+     },
+     "mobile-375x667@2": {
+      "exact": 487,
+      "total": 1051
+     },
+     "desktop-1280x720@1.25": {
+      "exact": 183,
+      "total": 1051
+     },
+     "desktop-1920x1080@1.5": {
+      "exact": 217,
+      "total": 1051
+     }
+    }
+   },
+   "rows": "coverage-rows.json"
+  }
+ }
+}
