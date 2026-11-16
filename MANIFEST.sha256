@@ -86,6 +86,8 @@ e32336845e3232bc874c4b1befb0263cb8b7bcce2133db6bd2a9c9cf15907923  315  archive/d
 a34d33ba2438d1715de2437fc06b715b989f49ae117926cc1e5e4d385ac4404d  320  archive/docs/progress/evidence/selector-matching-coverage-v1.json
 1b8c23f54879a797914b3b7280d46491bcdc720e72a46164bd03eeb2f9bc6392  315  archive/docs/progress/evidence/selector-specificity-census-v1.json
 61df7adf748ad17c596604c8927745ae9564ca2d337fa32330904ec2891565cb  320  archive/docs/progress/evidence/selector-specificity-coverage-v1.json
+90cd5f99309eefeeb526486785264156bf58043a1eda0cf36e2ab3c31fe5c138  321  archive/docs/progress/evidence/selector-stack-div-census-v1.json
+136b682a2fd7584294fcd4299d831f4d653afb886b28a83cb67f6da4d3aae567  320  archive/docs/progress/evidence/selector-stack-div-coverage-v1.json
 a38afa044639fae32890a8a878bba1150f1f5f5f13d1831203ddb25109708b0e  22672  archive/docs/progress/evidence/skia-cpu-opts-census-v1.json
 f3f9eb4c2ae6f6a0ccb72f916e22ede328cb854dc6240b6aa2b1ea15b83208f5  321  archive/docs/progress/evidence/skia-init-order-div-census-v1.json
 7fb5f8099ed6f77f7e241f0734f156122051a17b6b73371ed8115533416b924e  320  archive/docs/progress/evidence/skia-init-order-div-coverage-v1.json
