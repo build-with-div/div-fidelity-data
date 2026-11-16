@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23214,
-      "bytes": 770969237,
-      "sha256": "99b508c87a97c2d038a4a53098ef42a4fae36903956b68f6cdd775a64348da95"
+      "files": 23225,
+      "bytes": 771127105,
+      "sha256": "d3f3f5d209a33b3645f0318363b8850e527d022e8995ef17827ee7fccca79ba1"
     }
   },
   "additions": [
@@ -121,6 +121,50 @@
     {
       "path": "archive/docs/progress/evidence/selector-stack-div-coverage-v1.json",
       "source_commit": "9d9ecbb347984535f5ee3b2dfc9777bef4694596"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/README.md",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/build_rows.py",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/calibrate.py",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/dsf_oracle_compare.py",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/no-override.txt",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/no_override_check.py",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/offgrid-rows.csv",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/results-fractional.json",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/results-integer.json",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/rows-fractional.json",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
+    },
+    {
+      "path": "archive/docs/progress/evidence/dsf-oracle-2026-11-16/rows-integer.json",
+      "source_commit": "da4f1e6ad293e0ad5daac384960e7e39eed4739c"
     }
   ]
 }

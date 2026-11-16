@@ -28,6 +28,17 @@ d4ed2b7367591f228c181fbaf03cbe0fa46b0c48cb65e7ef0be06fdd9e750323  2952  archive/
 ecc9ed7e224f83e4692556595b3bcc123cdccbf336d19530a24dfed0ffe11d19  1131  archive/docs/progress/evidence/column-rule-draw-box-side-census-v1.json
 1c5f3fe1cf738c496017215ce4f4d9e2b2150e0a76818f537916f8ed9b50a245  3093  archive/docs/progress/evidence/composited-layer-transparent-raster-census-v1.json
 6a61d9f45e005737dc6c4825a6092cd1c7c1e376d397388e782d627a5ab9d9cc  14632  archive/docs/progress/evidence/double-border-stroked-rings-census-v1.json
+81a95e9da08691b6902b04eae7f9e050da9c21f6a380a4cba871230f3d1aa60a  2094  archive/docs/progress/evidence/dsf-oracle-2026-11-16/README.md
+fcb739956d0c2e3344e8b4a5c1fbbe1398ef11be22ba0f2ccacf335d5f3f71dd  5287  archive/docs/progress/evidence/dsf-oracle-2026-11-16/build_rows.py
+f090fe39239fc17182f5d9cc0ad67d8c7e6a5ea5721006e3f098e5d449fad77f  1485  archive/docs/progress/evidence/dsf-oracle-2026-11-16/calibrate.py
+3728f83ec51ef8de1fe304eef41b8d606e1e60b451729b56014a89fbfbb6000b  10044  archive/docs/progress/evidence/dsf-oracle-2026-11-16/dsf_oracle_compare.py
+eb466ea1e4f11e1b2148132b2657cb7c92d7856d364ea77699c3d89677515499  909  archive/docs/progress/evidence/dsf-oracle-2026-11-16/no-override.txt
+143ceb342486e852c474302c579c3e9d9d37b3141864b540a776198a5bd6550f  2159  archive/docs/progress/evidence/dsf-oracle-2026-11-16/no_override_check.py
+1bbc710cdd2046b8073b1ce46f0fce0ed9a4e22552a8d3d75f26558f83aa885a  16534  archive/docs/progress/evidence/dsf-oracle-2026-11-16/offgrid-rows.csv
+7988f80d33c5627d14de2fdf9e96e261b1bb434b2e8f450065128072cf085c4a  37323  archive/docs/progress/evidence/dsf-oracle-2026-11-16/results-fractional.json
+93e4d5fd97409ddb8155bbd18e81d6146f12348835692827a1e832072c9d79a3  41223  archive/docs/progress/evidence/dsf-oracle-2026-11-16/results-integer.json
+5005ef5ef7532be3d7b316927eb9f2ab64fd791792c0574f028eb6054133d052  18934  archive/docs/progress/evidence/dsf-oracle-2026-11-16/rows-fractional.json
+4129988dec3fe1b9b6ba4613f5dadf8df92af1f48a1a139aad42089c124c52d9  21876  archive/docs/progress/evidence/dsf-oracle-2026-11-16/rows-integer.json
 9ebdb235206c4d960aa2bade9d386818a928798233872c8740dfccaf709c229b  24230  archive/docs/progress/evidence/fieldset-blink-3d-census-v1.json
 66c85759c256e08fdd8543c0577ac470fc96dd5018c9fd5820a8399a5289cffa  1887  archive/docs/progress/evidence/fieldset-content-scrollbar-source-census-v1.json
 31b3267a58ad791e27c785eb559b185fad5b4470cf9e224bd5867411bea85dec  1877  archive/docs/progress/evidence/fieldset-trailing-margin-census-v1.json

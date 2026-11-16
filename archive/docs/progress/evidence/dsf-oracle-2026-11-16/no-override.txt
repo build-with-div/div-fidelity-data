@@ -1,0 +1,10 @@
+abutting 1.25 {'width': 1279, 'height': 719, 'dpr': 1.25} vs forced+viewport: 0 vs cdp: 224
+abutting 1.5 {'width': 1920, 'height': 1081, 'dpr': 1.5} vs forced+viewport: 0 vs cdp: 209
+caption 1.25 {'width': 1279, 'height': 719, 'dpr': 1.25} vs forced+viewport: 0 vs cdp: 199
+caption 1.5 {'width': 1920, 'height': 1080, 'dpr': 1.5} vs forced+viewport: 0 vs cdp: 209
+multicol 1.25 {'width': 1279, 'height': 720, 'dpr': 1.25} vs forced+viewport: 0 vs cdp: 224
+multicol 1.5 {'width': 1920, 'height': 1081, 'dpr': 1.5} vs forced+viewport: 0 vs cdp: 209
+overflow 1.25 {'width': 1279, 'height': 720, 'dpr': 1.25} vs forced+viewport: 0 vs cdp: 224
+overflow 1.5 {'width': 1920, 'height': 1080, 'dpr': 1.5} vs forced+viewport: 0 vs cdp: 209
+single 1.25 {'width': 1279, 'height': 719, 'dpr': 1.25} vs forced+viewport: 0 vs cdp: 113
+single 1.5 {'width': 1920, 'height': 1081, 'dpr': 1.5} vs forced+viewport: 0 vs cdp: 135

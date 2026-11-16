@@ -1,0 +1,1711 @@
+[
+ {
+  "key": "probe/single@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    150,
+    100
+   ],
+   "forced": [
+    150,
+    100
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 113,
+  "png_sha256": {
+   "cdp": "25f21b26cbbdf10739ae488f06cc84baf848e316dd0edb64b5167381e19ff505",
+   "forced": "badc99bd628428e8009c02a4dc568fd31a3e2128bc4da941db668dd598beb2df"
+  }
+ },
+ {
+  "key": "probe/single@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    180,
+    120
+   ],
+   "forced": [
+    180,
+    120
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 135,
+  "png_sha256": {
+   "cdp": "a3bfc57fafeb90eb1ad19d7402e143ef631930d50256631b18fce2ff707d7c4f",
+   "forced": "f706f4682fafe1a15fb0e5faed05870e19560b8584661829281191b212036795"
+  }
+ },
+ {
+  "key": "probe/abutting@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    150,
+    100
+   ],
+   "forced": [
+    150,
+    100
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 224,
+  "png_sha256": {
+   "cdp": "080e2e9d92660a3fb5f32d4390e09336ec3fd8313bc2576fbfacca67fbce2e3c",
+   "forced": "2af1581a2222f405947dcba4007204d578cf2880b865fbc8eee6388832305d18"
+  }
+ },
+ {
+  "key": "probe/abutting@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    180,
+    120
+   ],
+   "forced": [
+    180,
+    120
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 209,
+  "png_sha256": {
+   "cdp": "f7de05080dae95451a0cc4421fd36d9f8b5232b34d84d1329491f25844a53afa",
+   "forced": "0ca540c2fcd5842a45d901b9b4c0de653ee79026fbcc48ed48f0ac43b378ee8a"
+  }
+ },
+ {
+  "key": "probe/multicol@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    150,
+    100
+   ],
+   "forced": [
+    150,
+    100
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 224,
+  "png_sha256": {
+   "cdp": "080e2e9d92660a3fb5f32d4390e09336ec3fd8313bc2576fbfacca67fbce2e3c",
+   "forced": "2af1581a2222f405947dcba4007204d578cf2880b865fbc8eee6388832305d18"
+  }
+ },
+ {
+  "key": "probe/multicol@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    180,
+    120
+   ],
+   "forced": [
+    180,
+    120
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 209,
+  "png_sha256": {
+   "cdp": "f7de05080dae95451a0cc4421fd36d9f8b5232b34d84d1329491f25844a53afa",
+   "forced": "0ca540c2fcd5842a45d901b9b4c0de653ee79026fbcc48ed48f0ac43b378ee8a"
+  }
+ },
+ {
+  "key": "probe/caption@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    150,
+    100
+   ],
+   "forced": [
+    150,
+    100
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 199,
+  "png_sha256": {
+   "cdp": "7458fb120426807c6a2ddedb6b603a30d50c602dbcbceb1b79d65525dc379ae2",
+   "forced": "3bf0a1598d1859697092a082a39e18850cf0f8466de126b93a07ce4db20bf510"
+  }
+ },
+ {
+  "key": "probe/caption@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    180,
+    120
+   ],
+   "forced": [
+    180,
+    120
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 209,
+  "png_sha256": {
+   "cdp": "a2ff38dce6caa524b9f2d9fd2e4635ccd4a87d7b5f4e942671e70ce814832a96",
+   "forced": "9a8ab873bd036db01f6e8b8ad22b144a359b5839151476a1488150be4d7b582d"
+  }
+ },
+ {
+  "key": "probe/overflow@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    150,
+    100
+   ],
+   "forced": [
+    150,
+    100
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 224,
+  "png_sha256": {
+   "cdp": "15717a23828f892175f782e5cc770c4fdea96feebd3100312993ce1f3bc029c2",
+   "forced": "2af1581a2222f405947dcba4007204d578cf2880b865fbc8eee6388832305d18"
+  }
+ },
+ {
+  "key": "probe/overflow@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 120,
+    "height": 80,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    180,
+    120
+   ],
+   "forced": [
+    180,
+    120
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 209,
+  "png_sha256": {
+   "cdp": "3535fceb194bd1a9211c1cf492a53df480327b55b2083704a36fdc85d4a36dcb",
+   "forced": "0ca540c2fcd5842a45d901b9b4c0de653ee79026fbcc48ed48f0ac43b378ee8a"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/background-image-004@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "DIV#5: cdp [[20, 20, 100, 100], [[20, 20, 50, 100], [70, 20, 50, 100]], 100, 100, 30, 180, 30, 180] forced [[20, 20, 100, 100], [[20, 20, 50, 100], [70, 20, 50, 98.4000015258789]], 100, 100, 31, 179, 31, 179]",
+  "geometry_differences": 1,
+  "status": "layout",
+  "differing_pixels": 402,
+  "png_sha256": {
+   "cdp": "a41d9ad7ac195357fe87d6d7d2d08a46d8bbe261e94544a37e5c1a5cbb4e2c52",
+   "forced": "dfd1d22c4e2a9b9e40c6f2cc8db504690ba2c30b4d348fa61811ce91af0f4ab9"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/box-decoration-break-clone-001@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "DIV#6: cdp [[20, 20, 100, 100], [[20, 20, 50, 100], [70, 20, 50, 100]], 100, 100, 50, 180, 50, 180] forced [[20, 20, 100, 100], [[20, 20, 50, 100], [70, 20, 50, 98.4000015258789]], 100, 100, 50, 179, 50, 179]",
+  "geometry_differences": 2,
+  "status": "layout",
+  "differing_pixels": 249,
+  "png_sha256": {
+   "cdp": "6113fc4f65c0c87c6fee0a5a781fc5829ad24e317f793715f261610ae6fe9e17",
+   "forced": "a8bb90c9c679fdd18d38c73a833e38d67e5947e4a302d2fd22f43e03849ff91f"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/box-shadow-003@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 1487,
+  "png_sha256": {
+   "cdp": "fee449d47574d66fbbb0ea4f62646731ee65568518d9f725509f8e47d45de41f",
+   "forced": "b667f86ff52c91fa56ca724829a2e085df425a82c6af4e902bf8b6cb987f2184"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/flexbox_flex-item-content-overflow-001a@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "DIV#5: cdp [[20, 20, 300, 100], [[20, 20, 300, 100]], 300, 100, 280, 80, 280, 80] forced [[20, 20, 300, 100], [[20, 20, 300, 100]], 300, 100, 281, 81, 281, 81]",
+  "geometry_differences": 4,
+  "status": "layout",
+  "differing_pixels": 3094,
+  "png_sha256": {
+   "cdp": "efbb17e81e22411d0f923a7ca63ce966822f465c4abb2afa644548bef637452f",
+   "forced": "05fc9cc98f7a839b18b941cb2e0397967b956829992f9727d9fce09308288b2b"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/flexbox_multi-line-column-flex-fragmentation-052@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 249,
+  "png_sha256": {
+   "cdp": "929034884629fd3e5ff1c6a7aa19e25e03fdd80fe9f3979764fa9ddf9468c508",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/flexbox_multi-line-row-flex-fragmentation-051@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 311,
+  "png_sha256": {
+   "cdp": "bbfbeb05b87bc4436b95c93386efc333a67981aa00bd68061cf071720a4aa403",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/flexbox_single-line-row-flex-fragmentation-014@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 250,
+  "png_sha256": {
+   "cdp": "815cdf560e76e9d6610141e7e5789e3cc350a5a0e4a711f619b7c8468d485479",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/grid_monolithic-overflow-005@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 750,
+  "png_sha256": {
+   "cdp": "7112ee610610d7fb04e64dec0ca5309df89e0ddd2c05bd3432d3b45a453da81b",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/grid_monolithic-overflow-005@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 600,
+  "png_sha256": {
+   "cdp": "b2698a39b9181d55487045b7c73b2d7c31d099a568f4533fdb9ee3f426db49ee",
+   "forced": "729f00cee351b0acfd390e328b86281f4bce7351ab18fa0a8b7791e9403b182e"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/out-of-flow-in-multicolumn-059@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 125,
+  "png_sha256": {
+   "cdp": "014db5e0587ffcf0082e873d6dcfe7a754136f654b745553f092ecfc5da411e2",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "split/wpt/css_break/tall-content-inside-constrained-block-006.tentative@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 187,
+  "png_sha256": {
+   "cdp": "0b40ff25540850efbbf8173a3e8d573994bb3fc281deec1ed1edb9ea6e62f7ef",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "table/wpt/css_backgrounds/box-shadow-table-border-collapse-001@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 200], [[0, 0, 1280, 200]], 1280, 200, 1280, 720, 1280, 720] forced [[0, 0, 1280, 199.1999969482422], [[0, 0, 1280, 199.1999969482422]], 1280, 199, 1280, 720, 1280, 720]",
+  "geometry_differences": 10,
+  "status": "layout",
+  "differing_pixels": 1897,
+  "png_sha256": {
+   "cdp": "99443a241f60d032fffc0b7fc1cb41f43156e43a39f01b06dc01265fc09462f2",
+   "forced": "f865c4d8834785661f391261d14d404944383dec41fc273d42dd2f47f04abae6"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_oof-in-cell-with-alignment-003@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 187,
+  "png_sha256": {
+   "cdp": "237493c5f8f9d6b71e8b3ade8e815c5aefb4f10a1a897b9727d86cef1b644edc",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_repeated-section_captions.tentative@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 495,
+  "png_sha256": {
+   "cdp": "3cb04bbf71792abdc367a3a6ee8fc8d8a94bc53d51609ed70d30a7e03e9ca814",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_repeated-section_nested-repeated-header-crash@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 720,
+  "png_sha256": {
+   "cdp": "b2d74834ed2e2f35c63f49b1b0febe09c417608bca4a19bdae108fab88c14c04",
+   "forced": "14366abb99e07fcb4952d4fc97a6507e0da0e56717deb7062cae4656be390d74"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_repeated-section_variable-fragmentainer-size-001@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 2352,
+  "png_sha256": {
+   "cdp": "541d0ebd412378cd972f02314adac10065c9724edcec2e72df0b77634525baba",
+   "forced": "295bed11c1e4d28307521d07352ae8dd5736d5b8df7a6a9f214d41d6890e66c7"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-border-000@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "DIV#5: cdp [[20, 20, 100, 100], [[20, 20, 25, 100], [45, 20, 25, 100], [70, 20, 25, 100], [95, 20, 25, 100]], 100, 100, 25, 380, 25, 400] forced [[20, 20, 100, 100], [[20, 20, 25, 100], [45, 20, 25, 100], [70, 20, 25, 100], [95, 20, 25, 99.20000457763672]], 100, 100, 25, 380, 25, 399]",
+  "geometry_differences": 2,
+  "status": "layout",
+  "differing_pixels": 468,
+  "png_sha256": {
+   "cdp": "b8f13386d89939bba94651262a949172410dbe1d0744a260b2c0143a77a32a63",
+   "forced": "0b852f4793693840370977ce00df4cac74b9b16a2521c9c1306caf6335ae0e2a"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-border-000@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 300,
+  "png_sha256": {
+   "cdp": "47cfe5dd8ee7057f35561c12f2a1134ca873e1cc9585253fb19802bbf9f4d0c4",
+   "forced": "729f00cee351b0acfd390e328b86281f4bce7351ab18fa0a8b7791e9403b182e"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-col-paint-vlr-rtl-ref@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 1650,
+  "png_sha256": {
+   "cdp": "f194e2056ef26b3356e118535863afbd361a988c5a55d1b85e6c1bccd2b96ab1",
+   "forced": "16d1c7f86f5f5c89c1c2d0cf5b84ec0a6b01db233283db190885e4c4c2ce7230"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-collapsed-borders-paint-vrl-ltr@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[1114, 0, 166, 720], [[1114, 0, 166, 720]], 166, 720, 1280, 720, 1280, 720] forced [[1115.2000732421875, 0, 164.8000030517578, 720], [[1115.2000732421875, 0, 164.8000030517578, 720]], 165, 720, 1280, 720, 1280, 720]",
+  "geometry_differences": 15,
+  "status": "layout",
+  "differing_pixels": 7203,
+  "png_sha256": {
+   "cdp": "f82701d26ede8de76e21adfbf543fa44a8f755d0583ad32e11cd58d2e26331db",
+   "forced": "7b50bc7d375869116d30287d463018becd69cd07887386231834a0c6786211a7"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-collapsed-borders-paint-vrl-ltr@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[1754, 0, 166, 1080], [[1754, 0, 166, 1080]], 166, 1080, 1920, 1080, 1920, 1080] forced [[1754.666748046875, 0, 165.33334350585938, 1080], [[1754.666748046875, 0, 165.33334350585938, 1080]], 165, 1080, 1920, 1080, 1920, 1080]",
+  "geometry_differences": 15,
+  "status": "layout",
+  "differing_pixels": 5609,
+  "png_sha256": {
+   "cdp": "c2a24922a24d858b0c91e34f0ebb4abb4f7a10a37faa1de6bd61b38afc07b25c",
+   "forced": "d2f15babb351ac2d31a2814bb8f7bbd160468cfbf41d8699846cace200dab593"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-grid-paint-vrl-rtl@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "TABLE#6: cdp [[1160, 280, 100, 420], [[1160, 580, 100, 120], [1160, 480, 100, 120], [1160, 380, 100, 120], [1160, 280, 100, 120]], 100, 420, 390, 110, 400, 120] forced [[1160, 280.8000183105469, 100, 419.20001220703125], [[1160, 580.7999877929688, 100, 119.20000457763672], [1160, 480.8000183105469, 100, 119.20000457763672], [1160, 380.8000183105469, 100, 119.20000457763672], [1160.800048828125, 28",
+  "geometry_differences": 6,
+  "status": "layout",
+  "differing_pixels": 2452,
+  "png_sha256": {
+   "cdp": "3e9b5a408cc80c17b9d3bbf7be88a9485d362e4b8a5389aa3cfa6d19ca3f01e2",
+   "forced": "bf83cf7c55558a83ed433dee698f1da43007103a2ce44633ed27d20cb63e17b7"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-grid-paint-vrl-rtl@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 2295,
+  "png_sha256": {
+   "cdp": "e4bdf48fc418696639be12ea8f418b39ebc3b14a69b579491d78fad90f3e25a2",
+   "forced": "a8de5e6a0ebb10e4b70840a334806d8c79a0f0548eefbe5d357027c091c54114"
+  }
+ },
+ {
+  "key": "table/wpt/css_break/table_table-section-paint-vlr-rtl-ref@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 1661,
+  "png_sha256": {
+   "cdp": "388fbcb0f19a10b53636f2e9d049a68e4d350a71d0763b65878c46bb51df7ced",
+   "forced": "d9dc8d1455d516ef6c81e7d37946a1ffebb46e116718dd2d79ea0debdae2bbe3"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css2_floats/crashtests_firefox-bug-1904428@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[1291, 0, 629, 70033], [[1291, 0, 629, 70033]], 629, 70033, 1920, 85681, 1920, 1080] forced [[1286.3333740234375, 0, 633.6666870117188, 70033], [[1286.3333740234375, 0, 633.6666870117188, 70033]], 634, 70033, 1920, 85681, 1920, 1080]",
+  "geometry_differences": 16,
+  "status": "identical",
+  "png_sha256": {
+   "cdp": "34e859cb84d980cd41f261534e1f296c7e7a7c98ede3623c655edbf8dfcadfe3",
+   "forced": "34e859cb84d980cd41f261534e1f296c7e7a7c98ede3623c655edbf8dfcadfe3"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_backgrounds/background-size_background-size-cover@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 319], [[0, 0, 1280, 319]], 1280, 319, 1280, 720, 1280, 720] forced [[0, 0, 1280, 319.20001220703125], [[0, 0, 1280, 319.20001220703125]], 1280, 319, 1280, 720, 1280, 720]",
+  "geometry_differences": 5,
+  "status": "layout",
+  "differing_pixels": 3072,
+  "png_sha256": {
+   "cdp": "1c80454473d05c7532a71b5cf1410d95307cd85e4f02872165bdf95fa2c74d12",
+   "forced": "e469394a496922949fa8fcc133320293b95bf66af83916b20287905ff812c34b"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_backgrounds/background-size_background-size-cover@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1920, 319], [[0, 0, 1920, 319]], 1920, 319, 1920, 1080, 1920, 1080] forced [[0, 0, 1920, 319.3333435058594], [[0, 0, 1920, 319.3333435058594]], 1920, 319, 1920, 1080, 1920, 1080]",
+  "geometry_differences": 5,
+  "status": "layout",
+  "differing_pixels": 4924,
+  "png_sha256": {
+   "cdp": "d5d5bbf3824ac72a030fe17ac531efeb2ceee50df4d9f4a85bd8ea17a61939c5",
+   "forced": "2cc021f6da9a0108bdf93ba3ba2ea930880b9bc8b876e33e5fffcdef4718d1d0"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_break/fieldset-001@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "FIELDSET#6: cdp [[25, 20, 585, 80], [[25, 23, 174.328125, 77], [230.328125, 20, 174.328125, 80], [435.671875, 20, 174.328125, 40]], 585, 80, 164, 138, 164, 181] forced [[25, 20, 584.9874877929688, 80], [[25, 23, 174.3249969482422, 77], [230.33750915527344, 20, 174.3249969482422, 80], [435.6625061035156, 20, 174.3249969482422, 39.60000228881836]], 585, 80, 166, 138, 166, 181]",
+  "geometry_differences": 12,
+  "status": "layout",
+  "differing_pixels": 12893,
+  "png_sha256": {
+   "cdp": "35ff4806d7d4d410a720bead204d192e3c721520ab26400c4ee26100497a14be",
+   "forced": "4fd5737e54839eff8a699de121b075a32db4f660d0ff77fe9c80dd742a5a3504"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_break/inline-skipping-fragmentainer-001@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "SPAN#8: cdp [[20, 25, 100, 98], [[20, 25, 16, 16], [70, 107, 50, 16]], 100, 98, 0, 0, 0, 0] forced [[20, 25, 100, 98.20000457763672], [[20, 25, 16, 16], [70, 107.20000457763672, 50, 16]], 100, 98, 0, 0, 0, 0]",
+  "geometry_differences": 1,
+  "status": "layout",
+  "differing_pixels": 125,
+  "png_sha256": {
+   "cdp": "01d7ca19fc23516b6e7057c08899517659d8a90f4852c5047a92728a50498824",
+   "forced": "0ddf512f798c86ca66a0d61c072cd4e8d0af59a27f1a38d0053a65dcb894de81"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_flexbox/alignment_flex-align-baseline-line-clamp-002.tentative@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "DIV#5: cdp [[20, 20, 120, 120], [[20, 20, 120, 120]], 120, 120, 120, 120, 120, 120] forced [[20, 20, 119.20000457763672, 120], [[20, 20, 119.20000457763672, 120]], 119, 120, 119, 120, 119, 120]",
+  "geometry_differences": 132,
+  "status": "layout",
+  "differing_pixels": 7552,
+  "png_sha256": {
+   "cdp": "31f586a703b1e6af884b1d469f427ec769245fdf7942fbb6cd378feaa1b76456",
+   "forced": "42358a33cf5d2a0ac246c8f941fb0e315d40ba8d5fd3ebb07f0e863dec150d48"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_flexbox/alignment_flex-align-baseline-line-clamp-002.tentative@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": true,
+  "status": "paint",
+  "differing_pixels": 6013,
+  "png_sha256": {
+   "cdp": "286e777db26db0a3b10b01d981eafba557fb964adcc605b02d2b8c9d31b25181",
+   "forced": "cea9e92d3d103b2dacd8a38cef298a51cdf3a95b7f310389bf57a9f053e4aacf"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_flexbox/flexbox-align-self-baseline-horiz-006@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 144], [[0, 0, 1280, 144]], 1280, 144, 1280, 720, 1280, 720] forced [[0, 0, 1280, 143.1999969482422], [[0, 0, 1280, 143.1999969482422]], 1280, 143, 1280, 720, 1280, 720]",
+  "geometry_differences": 14,
+  "status": "layout",
+  "differing_pixels": 12117,
+  "png_sha256": {
+   "cdp": "2d03b79ea5e6e1e255f4f31ec1cac81008782913444a80a4add53a75c1889d6c",
+   "forced": "c77dd9241313c961a0d12a6d04167d285a5468c26c38bf87dcd1ec982b06883a"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_flexbox/flexbox-align-self-vert-rtl-004@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 268], [[0, 0, 1280, 268]], 1280, 268, 1280, 720, 1280, 720] forced [[0, 0, 1280, 268.8000183105469], [[0, 0, 1280, 268.8000183105469]], 1280, 269, 1280, 720, 1280, 720]",
+  "geometry_differences": 14,
+  "status": "layout",
+  "differing_pixels": 8148,
+  "png_sha256": {
+   "cdp": "b0dca7471b44a889d34ad3a78dc08a06a0f5670ffba87dab738b269ad95bd3a7",
+   "forced": "807a2575e8c172433638e34f6b54f73269e05c53bf81e65b1244bd2b7873551f"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_multicol/multicol-span-all-010-ref@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 310], [[0, 0, 1280, 310]], 1280, 310, 1280, 720, 1280, 720] forced [[0, 0, 1280, 309.6000061035156], [[0, 0, 1280, 309.6000061035156]], 1280, 310, 1280, 720, 1280, 720]",
+  "geometry_differences": 20,
+  "status": "layout",
+  "differing_pixels": 13974,
+  "png_sha256": {
+   "cdp": "7027bbc2381b843f096fad7773d75df5c5845e4abed3e827f8a8acb0c7ef0fe9",
+   "forced": "be812323af50c35d6e24d461354a851f04f791d7e87fc430bd57ac2b4812db90"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_multicol/multicol-span-all-010-ref@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1920, 310], [[0, 0, 1920, 310]], 1920, 310, 1920, 1080, 1920, 1080] forced [[0, 0, 1920, 302.66668701171875], [[0, 0, 1920, 302.66668701171875]], 1920, 303, 1920, 1080, 1920, 1080]",
+  "geometry_differences": 20,
+  "status": "layout",
+  "differing_pixels": 34958,
+  "png_sha256": {
+   "cdp": "b20bb304e1760dbef9e3d1201171afcd109e3e344f60e08b3f0ccccf5cb19d90",
+   "forced": "d24445ff95337a66a2a0863e10bf5e1ef09fbc8e39284ca4ff29ab7992dc761a"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_multicol/multicol-width-004@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 288], [[0, 0, 1280, 288]], 1280, 288, 1280, 720, 1280, 720] forced [[0, 0, 1280, 286.3999938964844], [[0, 0, 1280, 286.3999938964844]], 1280, 286, 1280, 720, 1280, 720]",
+  "geometry_differences": 21,
+  "status": "layout",
+  "differing_pixels": 6074,
+  "png_sha256": {
+   "cdp": "d8d3b09f3bacb92c7aecac60c9006badc4e57a9e0b475932540577e07673feb1",
+   "forced": "396a42e603eb8b4439b40dd7a2fd86c06210993bfcdddcdaf35a641d29525dbe"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_multicol/multicol-width-004@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1920, 288], [[0, 0, 1920, 288]], 1920, 288, 1920, 1080, 1920, 1080] forced [[0, 0, 1920, 285.3333435058594], [[0, 0, 1920, 285.3333435058594]], 1920, 285, 1920, 1080, 1920, 1080]",
+  "geometry_differences": 21,
+  "status": "layout",
+  "differing_pixels": 10860,
+  "png_sha256": {
+   "cdp": "57f0973decb80ce8d517b981e893596499faa2afe9cb7058d01972423532a2be",
+   "forced": "bb5472c9398bcf44817719a0e34be6ab0e500b71432387932836a80b5c3b8f20"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_overflow/overflow-auto-scrollbar-gutter-intrinsic-001-ref@1.25",
+  "scale": "1.25",
+  "metrics": {
+   "cdp": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   },
+   "forced": {
+    "width": 1280,
+    "height": 720,
+    "dpr": 1.25
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    1600,
+    900
+   ],
+   "forced": [
+    1600,
+    900
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1280, 422], [[0, 0, 1280, 422]], 1280, 422, 1280, 720, 1280, 720] forced [[0, 0, 1280, 421.20001220703125], [[0, 0, 1280, 421.20001220703125]], 1280, 421, 1280, 720, 1280, 720]",
+  "geometry_differences": 16,
+  "status": "layout",
+  "differing_pixels": 13525,
+  "png_sha256": {
+   "cdp": "425a0b7d6c3ec604544a72fbee37a480bdc4338f2325648e8b10cbc60cabf457",
+   "forced": "81ad6bb096b66523034c246984c0375a6b5d330decfb63764f3b8c75de9eff9c"
+  }
+ },
+ {
+  "key": "offgrid/wpt/css_overflow/overflow-auto-scrollbar-gutter-intrinsic-001-ref@1.5",
+  "scale": "1.5",
+  "metrics": {
+   "cdp": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   },
+   "forced": {
+    "width": 1920,
+    "height": 1080,
+    "dpr": 1.5
+   }
+  },
+  "cdp_matches_census": true,
+  "size": {
+   "cdp": [
+    2880,
+    1620
+   ],
+   "forced": [
+    2880,
+    1620
+   ]
+  },
+  "geometry_equal": false,
+  "first_geometry_difference": "HTML#0: cdp [[0, 0, 1920, 422], [[0, 0, 1920, 422]], 1920, 422, 1920, 1080, 1920, 1080] forced [[0, 0, 1920, 420.66668701171875], [[0, 0, 1920, 420.66668701171875]], 1920, 421, 1920, 1080, 1920, 1080]",
+  "geometry_differences": 16,
+  "status": "layout",
+  "differing_pixels": 22705,
+  "png_sha256": {
+   "cdp": "f1a243c26188fce74fe43aa8d343f32d355c850acbb7b3c3ca1b9c6f5f4348de",
+   "forced": "c2d9f15dfe6db26d3b4a2657ababe746dba23f20ed1442af728f3b7ab6e28bf1"
+  }
+ }
+]
