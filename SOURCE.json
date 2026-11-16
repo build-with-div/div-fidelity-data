@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23229,
-      "bytes": 780035254,
-      "sha256": "82e9c4535a57a5d89ad3225436a69b26e2e1ac71b619f126696064f63805ce1b"
+      "files": 23231,
+      "bytes": 780038158,
+      "sha256": "4d37d68dea071cee1a34b9427423478a683b8211bf85da99c3829b0f05fdef9a"
     }
   },
   "additions": [
@@ -181,6 +181,14 @@
     {
       "path": "archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/coverage-rows.json",
       "source_commit": "19269a7fee7da3e958471f7c73f094282962e058"
+    },
+    {
+      "path": "archive/docs/progress/evidence/grid-placement-cursor-div-census-1x-v1.json",
+      "source_commit": "d98e55ce3243e9ef4f4f7fbeb9671b1e59ff358f"
+    },
+    {
+      "path": "archive/docs/progress/evidence/grid-placement-cursor-div-coverage-1x-v1.json",
+      "source_commit": "d98e55ce3243e9ef4f4f7fbeb9671b1e59ff358f"
     }
   ]
 }
