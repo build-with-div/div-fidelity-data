@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23231,
-      "bytes": 780038158,
-      "sha256": "4d37d68dea071cee1a34b9427423478a683b8211bf85da99c3829b0f05fdef9a"
+      "files": 23233,
+      "bytes": 780058975,
+      "sha256": "c1d7a7dceb1e09e86aaf42742157f7ebd8c340f50cb02820e1e52e32efd22abb"
     }
   },
   "additions": [
@@ -189,6 +189,14 @@
     {
       "path": "archive/docs/progress/evidence/grid-placement-cursor-div-coverage-1x-v1.json",
       "source_commit": "d98e55ce3243e9ef4f4f7fbeb9671b1e59ff358f"
+    },
+    {
+      "path": "archive/docs/progress/evidence/windows-text-oracle-v2.json",
+      "source_commit": "e12136b10429e3d72ec503baa3374307619383d8"
+    },
+    {
+      "path": "archive/docs/progress/evidence/linux-text-oracle-v2.json",
+      "source_commit": "e12136b10429e3d72ec503baa3374307619383d8"
     }
   ]
 }
