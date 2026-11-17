@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23242,
-      "bytes": 782540448,
-      "sha256": "e346bd10e49137fd7b31eea9582676d8909a5586b96754f61e61839d1c3b3caa"
+      "files": 23244,
+      "bytes": 782541089,
+      "sha256": "b195dd40d8a5dd491de42a70f213f7e1698b128262d1cd2b6cf0610e0ecc183a"
     }
   },
   "additions": [
@@ -233,6 +233,14 @@
     {
       "path": "archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/sample2.png",
       "source_commit": "3f07954f73485bc717a3950709d762a8878c585f"
+    },
+    {
+      "path": "archive/docs/progress/evidence/rule-cascade-r0a-div-census-v1.json",
+      "source_commit": "510c975df00f33d4e6f1407fc4cb41a0ca8ce3c5"
+    },
+    {
+      "path": "archive/docs/progress/evidence/rule-cascade-r0a-div-coverage-v1.json",
+      "source_commit": "510c975df00f33d4e6f1407fc4cb41a0ca8ce3c5"
     }
   ]
 }
