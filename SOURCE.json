@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23252,
-      "bytes": 782575923,
-      "sha256": "3d94ef4537523f585aa04a79436ac393ff483af5fd37cb7d3d292ddc9ee036e0"
+      "files": 23254,
+      "bytes": 782576564,
+      "sha256": "c62e0f0168f18e7600b01ef30908cd3ffd69db74f056b8f090ccf4953bafa1bb"
     }
   },
   "additions": [
@@ -273,6 +273,14 @@
     {
       "path": "archive/docs/progress/evidence/font-size-precision-t4-div-coverage-v1.json",
       "source_commit": "77529df1b1b139dc5f0d1d438045f50d51d50ef5"
+    },
+    {
+      "path": "archive/docs/progress/evidence/stylesheet-pr3a-div-census-v1.json",
+      "source_commit": "474d6e2080faf7ffc4d85d9adefa115357089a27"
+    },
+    {
+      "path": "archive/docs/progress/evidence/stylesheet-pr3a-div-coverage-v1.json",
+      "source_commit": "474d6e2080faf7ffc4d85d9adefa115357089a27"
     }
   ]
 }
