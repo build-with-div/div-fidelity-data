@@ -98,6 +98,8 @@ c6abf6290411d823646d0340302666a64568fadcfde8743eadd49ce18c66b792  2364  archive/
 d4583f0c9f20e05993e4e2e067b621394eefd6b10f8d44910a967fbde78e0c3d  1534  archive/docs/progress/evidence/repeat-scanline-tie-census-v1.json
 b9584c7aafbd90fd3415f74085c56cbfcb5a607292d50ebb00820391a6086935  22334  archive/docs/progress/evidence/replaced-image-rect-fill-census-v1.json
 1573d642a5c550a6ad8d4432d62ee6bce1c94f0ded4b3834a74b773744ec40f0  3933  archive/docs/progress/evidence/replaced-image-span-matrix-census-v1.json
+99d1a5ca87fd2e4bfc90112eafa89e836d9e672d34bca3e9515b7649edd16541  2202  archive/docs/progress/evidence/rfc-0011-ink-targets-2026-11-17/README.md
+d1fa4fdfbb9f66d820624b691b1629740a63e0288b1ef7c601d3032f5dfe685b  28475  archive/docs/progress/evidence/rfc-0011-ink-targets-2026-11-17/ink-targets.json
 b1f023eb90c3e25234ba95f9f2f49a414a4cb43a1bffe306bca8b734f08fffad  7076  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/README.md
 dacf2c1f2ecd85fabf73b4ec104440909e6f737955d00533c4ca1b002c63d98e  1870426  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/census-classes.json
 5267ba4801ca5bff658db2ad4d95b99f811cdf84176543638e0004514a47b74b  4905  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/classify.py

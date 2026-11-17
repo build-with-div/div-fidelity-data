@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23244,
-      "bytes": 782541089,
-      "sha256": "b195dd40d8a5dd491de42a70f213f7e1698b128262d1cd2b6cf0610e0ecc183a"
+      "files": 23246,
+      "bytes": 782571766,
+      "sha256": "18efcb887ed1db6f77fd341528f1f94863c972fa2d761e3e0a7b0c9ff4d02f20"
     }
   },
   "additions": [
@@ -241,6 +241,14 @@
     {
       "path": "archive/docs/progress/evidence/rule-cascade-r0a-div-coverage-v1.json",
       "source_commit": "510c975df00f33d4e6f1407fc4cb41a0ca8ce3c5"
+    },
+    {
+      "path": "archive/docs/progress/evidence/rfc-0011-ink-targets-2026-11-17/README.md",
+      "source_commit": "929ae8143056dbaee35c8e4305ef61f1c8bfb7a0"
+    },
+    {
+      "path": "archive/docs/progress/evidence/rfc-0011-ink-targets-2026-11-17/ink-targets.json",
+      "source_commit": "929ae8143056dbaee35c8e4305ef61f1c8bfb7a0"
     }
   ]
 }
