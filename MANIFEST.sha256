@@ -62,7 +62,9 @@ c829d9d2f6bda5098829e0c7dadf22f4826a8df40b7504651ab314773fe56664  6512  archive/
 55fc0b3696c3fa7b6179358d15bca17984cdeddfcee646f2f536b5d2e8ca3f06  879  archive/docs/progress/evidence/grid-auto-track-stretch-coverage-v1.json
 24b9d9a53a4ebe5fa58b2140acb921683b84b76d4946f9c82c34dff165878cf7  214660  archive/docs/progress/evidence/grid-coverage-v1.json
 6e1a5647b7d0b8af333d834420a7b05fed83f3e99cbd3b92612980a0e58be688  317  archive/docs/progress/evidence/grid-placement-cursor-div-census-1x-v1.json
+0ecc8d5b3a716774cd2af23a8c23df767c6251b3f1bee8ee0506376334f75dd9  321  archive/docs/progress/evidence/grid-placement-cursor-div-census-zoom-v1.json
 8121e796a9c26080732443ecbfabcef503a7a15f5fcd7fe662679b2fea3b874e  2587  archive/docs/progress/evidence/grid-placement-cursor-div-coverage-1x-v1.json
+94806fd485b06239540a215a92eb20ec114dafdd066859edffaf86db067584ac  7417  archive/docs/progress/evidence/grid-placement-cursor-div-coverage-zoom-v1.json
 dbfd118de1d6a8c81151796520c9b99191ed200a0bcfdbdc1d7795fa94f0d5a7  3081  archive/docs/progress/evidence/hline-run-spans-census-v1.json
 44264b9274eaf7c7b8da7843a3799d5d44b725152bb3b4b30b465f2193079a0f  3814  archive/docs/progress/evidence/inline-background-single-tile-census-v1.json
 cf4d2af709c6db59e4d2f81f7b779ea6355fb3a2c40f3a5c0bcae14095faedeb  8094  archive/docs/progress/evidence/linear-gradient-tile-space-census-v1.json
