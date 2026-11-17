@@ -1,0 +1,96 @@
+{
+ "base_commit": "85fa7380457df5bdecc9c496571e0c1b7ba3f622",
+ "base_exact": 16287,
+ "chromium_identical": 23728,
+ "comparisons": 23728,
+ "errors": [],
+ "gains": [],
+ "head_commit": "77529df1b1b139dc5f0d1d438045f50d51d50ef5",
+ "head_exact": 16287,
+ "improved": [
+  {
+   "base": "different",
+   "base_mismatched": 614,
+   "head": "different",
+   "head_mismatched": 603,
+   "id": "wpt/css_overflow/scroll-markers_root-scroll-button",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 1112,
+   "head": "different",
+   "head_mismatched": 1107,
+   "id": "wpt/css_overflow/scroll-markers_scroll-button-on-object-ref",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 3422,
+   "head": "different",
+   "head_mismatched": 3373,
+   "id": "wpt/css_overflow/scroll-markers_scroll-buttons-appearance",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 77428,
+   "head": "different",
+   "head_mismatched": 77424,
+   "id": "wpt/css_position/position-absolute-semi-replaced-stretch-input",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 77428,
+   "head": "different",
+   "head_mismatched": 77424,
+   "id": "wpt/css_position/position-absolute-semi-replaced-stretch-input-ref",
+   "profile": "desktop-1280x720@1.25"
+  }
+ ],
+ "losses": [],
+ "openui_changed": [
+  {
+   "base": "different",
+   "base_mismatched": 614,
+   "head": "different",
+   "head_mismatched": 603,
+   "id": "wpt/css_overflow/scroll-markers_root-scroll-button",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 1112,
+   "head": "different",
+   "head_mismatched": 1107,
+   "id": "wpt/css_overflow/scroll-markers_scroll-button-on-object-ref",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 3422,
+   "head": "different",
+   "head_mismatched": 3373,
+   "id": "wpt/css_overflow/scroll-markers_scroll-buttons-appearance",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 77428,
+   "head": "different",
+   "head_mismatched": 77424,
+   "id": "wpt/css_position/position-absolute-semi-replaced-stretch-input",
+   "profile": "desktop-1280x720@1.25"
+  },
+  {
+   "base": "different",
+   "base_mismatched": 77428,
+   "head": "different",
+   "head_mismatched": 77424,
+   "id": "wpt/css_position/position-absolute-semi-replaced-stretch-input-ref",
+   "profile": "desktop-1280x720@1.25"
+  }
+ ],
+ "worsened": []
+}
