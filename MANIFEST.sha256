@@ -98,6 +98,13 @@ c6abf6290411d823646d0340302666a64568fadcfde8743eadd49ce18c66b792  2364  archive/
 d4583f0c9f20e05993e4e2e067b621394eefd6b10f8d44910a967fbde78e0c3d  1534  archive/docs/progress/evidence/repeat-scanline-tie-census-v1.json
 b9584c7aafbd90fd3415f74085c56cbfcb5a607292d50ebb00820391a6086935  22334  archive/docs/progress/evidence/replaced-image-rect-fill-census-v1.json
 1573d642a5c550a6ad8d4432d62ee6bce1c94f0ded4b3834a74b773744ec40f0  3933  archive/docs/progress/evidence/replaced-image-span-matrix-census-v1.json
+b1f023eb90c3e25234ba95f9f2f49a414a4cb43a1bffe306bca8b734f08fffad  7076  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/README.md
+dacf2c1f2ecd85fabf73b4ec104440909e6f737955d00533c4ca1b002c63d98e  1870426  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/census-classes.json
+5267ba4801ca5bff658db2ad4d95b99f811cdf84176543638e0004514a47b74b  4905  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/classify.py
+10cff871425b72d9637a0cc883afd54c381b078ee38ec314b4f3d18737affaa0  583641  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/coverage-classes.json
+a124044468751723f8288ccdfeecccbd96022125a7899e0395c76c193d674733  2502  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/sample0.png
+65392b392f3cdf546e7e25605b1cf578d5b624b5c4bde44ee2802881514dd97c  2654  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/sample1.png
+be57efb53225fc2dcfbd83bb78321d462bc35b6a3844489d9d56e05678ebcc0c  2531  archive/docs/progress/evidence/rfc-0011-real-zoom-classes-2026-11-16/sample2.png
 7e680154715355cb9623dfe1617f8d7c5a774e67c32e6a0ce5e5bd76002c104d  321  archive/docs/progress/evidence/scrollbar-compositing-model-census-v1.json
 05941f67acda49304ae02014813e48fee54f86b9bd1c56fbfd9c5fbdf766ae59  470300  archive/docs/progress/evidence/scrollbar-compositing-model-v1.json
 8ae5ba602bc5cc882a4f65a2b70777ba743d6f2f8205f10a10a92520e0131002  321  archive/docs/progress/evidence/scrollbar-two-axis-clip-census-v1.json
