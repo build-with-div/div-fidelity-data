@@ -90,6 +90,8 @@ b9ed7ecc26c46c96b44dee784849235be2f8119019944184e1dc5ab59fb07b14  6854  archive/
 e8953a804d91624251d581c4762786907e1dccacc34ab3f675f2f882cda61483  18633  archive/docs/progress/evidence/painter-candidate-variants-census-v1.json
 92a769ab99b145b2761153aced9685c54a1f3141f32e01c608771f8408548da9  315  archive/docs/progress/evidence/pointer-window-leave-census-v1.json
 6b6c17c0c961199fa988f55eef5d46a3b85e9db65a16027b0051c22e3af8464e  320  archive/docs/progress/evidence/pointer-window-leave-coverage-v1.json
+1ab777c872c3671c34211396c0017eb23bfb7cfd179edc135a9506503abe130a  321  archive/docs/progress/evidence/positioned-text-blob-t1-div-census-v1.json
+e5d83febb0bdf76d68635965c7a7b921f68d41fe03a816caf6bc0e86def149a9  320  archive/docs/progress/evidence/positioned-text-blob-t1-div-coverage-v1.json
 3423b3e19b9d6f037924b3e078b7f11594b4a793ecf9adca884321775927bc4c  4194  archive/docs/progress/evidence/radial-gradient-tile-space-census-v1.json
 c6abf6290411d823646d0340302666a64568fadcfde8743eadd49ce18c66b792  2364  archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/README.md
 6162f84d111b1cd490f7bcb5ee791a4c0c428d318a153500a906a42f822a1d74  7540007  archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/census-rows.json
