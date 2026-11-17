@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23246,
-      "bytes": 782571766,
-      "sha256": "18efcb887ed1db6f77fd341528f1f94863c972fa2d761e3e0a7b0c9ff4d02f20"
+      "files": 23248,
+      "bytes": 782572407,
+      "sha256": "20688b562df6b22f3c969f1124822dc0786af455ea668fa5900e63f5c126f49d"
     }
   },
   "additions": [
@@ -249,6 +249,14 @@
     {
       "path": "archive/docs/progress/evidence/rfc-0011-ink-targets-2026-11-17/ink-targets.json",
       "source_commit": "929ae8143056dbaee35c8e4305ef61f1c8bfb7a0"
+    },
+    {
+      "path": "archive/docs/progress/evidence/style-attribute-r0b-div-census-v1.json",
+      "source_commit": "72ee8e7411bd140cfeb89dcbd7f499c8d82d4d3f"
+    },
+    {
+      "path": "archive/docs/progress/evidence/style-attribute-r0b-div-coverage-v1.json",
+      "source_commit": "72ee8e7411bd140cfeb89dcbd7f499c8d82d4d3f"
     }
   ]
 }
