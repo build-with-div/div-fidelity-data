@@ -131,6 +131,9 @@ f3f9eb4c2ae6f6a0ccb72f916e22ede328cb854dc6240b6aa2b1ea15b83208f5  321  archive/d
 7fb5f8099ed6f77f7e241f0734f156122051a17b6b73371ed8115533416b924e  320  archive/docs/progress/evidence/skia-init-order-div-coverage-v1.json
 f4488889b0ae484025d445f2fac28313ea96ae2984e95e28f3c7e95872e1e23a  46303  archive/docs/progress/evidence/skia-legacy-shader-context-census-v1.json
 87f65f59dfa738fea16d1138688b31c8e60da3426446890cc3061d7d9161fa5d  5732  archive/docs/progress/evidence/spaced-pattern-extent-census-v1.json
+29c1f8213041ca14388f894282c96cf9129d1e6a29633c049d21653f985e47af  321  archive/docs/progress/evidence/state-invalidation-pr4-div-census-v1.json
+77897be023ae88f24f9fde2345365736798733288bd08d6a5e10a681048ab771  320  archive/docs/progress/evidence/state-invalidation-pr4-div-coverage-v1.json
+a0380e0f386a38b2c2ef5d2a3baf40840133a7f96457e540365c9c493d6d0c35  318  archive/docs/progress/evidence/state-invalidation-pr4-div-coverage-zoom-v1.json
 e6cbe1e8e16a86140d46a312ff7ade98da4803b1acc5682908acecce0f446ae4  315  archive/docs/progress/evidence/state-pseudo-classes-census-v1.json
 c4e044768fdb31bf040e3f5b4435dd379bd57f027901f44c47b1ac7a639d1f37  320  archive/docs/progress/evidence/state-pseudo-classes-coverage-v1.json
 c09d7f3981c63ba3f930860833683d58abbeb269bfa89b5d3ea8b068b99ecd1d  4232  archive/docs/progress/evidence/stroked-miter-extension-census-v1.json

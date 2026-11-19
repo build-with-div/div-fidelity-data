@@ -1,0 +1,14 @@
+{
+ "base_commit": "c65b12455b536f2498b234f6def3503252bd8daa",
+ "head_commit": "fadf26f2247d8c608f5defd9ed525e22183852f5",
+ "comparisons": 3153,
+ "status_changed": 0,
+ "openui_changed": 0,
+ "gains": 0,
+ "losses": 0,
+ "base_exact": 894,
+ "head_exact": 894,
+ "only_in_base": [],
+ "only_in_head": [],
+ "changed_ids": []
+}

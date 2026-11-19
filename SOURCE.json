@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23260,
-      "bytes": 782578482,
-      "sha256": "6ed96947bc829504bd5e1db9ac40d3ac4a5fb099b57327fe4871a6a7ad840453"
+      "files": 23263,
+      "bytes": 782579441,
+      "sha256": "7f0fb1d378969b1bbe84a9a6134948294052b987058ec24309a45d4600a983b1"
     }
   },
   "additions": [
@@ -305,6 +305,18 @@
     {
       "path": "archive/docs/progress/evidence/advance-truncation-t3-div-coverage-zoom-v1.json",
       "source_commit": "c330927a8ab2938382cdcbfbcefc1c74e81127d0"
+    },
+    {
+      "path": "archive/docs/progress/evidence/state-invalidation-pr4-div-census-v1.json",
+      "source_commit": "fadf26f2247d8c608f5defd9ed525e22183852f5"
+    },
+    {
+      "path": "archive/docs/progress/evidence/state-invalidation-pr4-div-coverage-v1.json",
+      "source_commit": "fadf26f2247d8c608f5defd9ed525e22183852f5"
+    },
+    {
+      "path": "archive/docs/progress/evidence/state-invalidation-pr4-div-coverage-zoom-v1.json",
+      "source_commit": "fadf26f2247d8c608f5defd9ed525e22183852f5"
     }
   ]
 }
