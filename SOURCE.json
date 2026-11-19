@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23254,
-      "bytes": 782576564,
-      "sha256": "c62e0f0168f18e7600b01ef30908cd3ffd69db74f056b8f090ccf4953bafa1bb"
+      "files": 23257,
+      "bytes": 782577523,
+      "sha256": "ec15b29d59d12b157f61da79b4b5656fdbcd4c4fa13b085dddff4687550b090c"
     }
   },
   "additions": [
@@ -281,6 +281,18 @@
     {
       "path": "archive/docs/progress/evidence/stylesheet-pr3a-div-coverage-v1.json",
       "source_commit": "474d6e2080faf7ffc4d85d9adefa115357089a27"
+    },
+    {
+      "path": "archive/docs/progress/evidence/web-font-raster-t5-t6-div-census-v1.json",
+      "source_commit": "b6dca584d6bbd8207e497c6d9adafe78ae1eba2e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/web-font-raster-t5-t6-div-coverage-v1.json",
+      "source_commit": "b6dca584d6bbd8207e497c6d9adafe78ae1eba2e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/web-font-raster-t5-t6-div-coverage-zoom-v1.json",
+      "source_commit": "b6dca584d6bbd8207e497c6d9adafe78ae1eba2e"
     }
   ]
 }
