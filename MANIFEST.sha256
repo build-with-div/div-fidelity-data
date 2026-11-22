@@ -17,6 +17,10 @@ e927921129157950a2176111a0869d7d21db88a337eb55c85495e443a2472a2d  10216  archive
 bb21500e02d79d55ead63e767cdb0365eadaa7135f7746057b7f38f1109adb2f  35142  archive/docs/progress/evidence/branch-checkpoint-2026-10-17-checks.json
 d88a81ed00afaed066a900772e6fe267e57de05149db5d0bdd27ca35e031c52a  100391  archive/docs/progress/evidence/branch-checkpoint-2026-10-17.json
 0026327dc9149aa0f6c1b383bebb41f96aff37847e45346c4aaf1234dace93a2  9616389  archive/docs/progress/evidence/branch-checkpoint-2026-10-17.tar.gz
+5ee9f24fb2dee88e37d2b961a86935ccd3df52c8cf0e89d168d3002683c61d2b  315  archive/docs/progress/evidence/calc-line-height-1f31bc59-div-census-v1.json
+7b040d927dd83700618f36b8276ffaff544799f270e21e58ad07471a753d2ef6  315  archive/docs/progress/evidence/calc-line-height-1f31bc59-div-census-zoom-v1.json
+666cf2272680328510833d57e89e1a3fcbf38cac730e927583508839e7725f27  320  archive/docs/progress/evidence/calc-line-height-1f31bc59-div-coverage-v1.json
+088e22c217ded53b2c4b50b264fb79fea2909cf47f51deddbcf34a541bbe4b30  318  archive/docs/progress/evidence/calc-line-height-1f31bc59-div-coverage-zoom-v1.json
 3298fcb4f8f198d5541b09795043a721a723a69ff415e754cc07b7e08a83de8b  321  archive/docs/progress/evidence/calc-line-height-div-census-v1.json
 f32fdf22f9579dbd149ee808aa69c70536aad6305e42add921637715da509a0d  321  archive/docs/progress/evidence/calc-line-height-div-census-zoom-v1.json
 80f94f70f19290ae8e24b32599d4649ff39a9029f7f0f79668569e37a423aa7d  320  archive/docs/progress/evidence/calc-line-height-div-coverage-v1.json
