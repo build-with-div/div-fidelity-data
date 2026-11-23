@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23271,
-      "bytes": 782581989,
-      "sha256": "6e82a679471c69ba3cd5b84b401fcac8ddd7aa3d5d504d8cfbd6a2db40bf5e96"
+      "files": 23275,
+      "bytes": 782583257,
+      "sha256": "20cca86d5253b8fd94f9587b345207639de5191e9e28eecd6a3cdc5185894298"
     }
   },
   "additions": [
@@ -349,6 +349,22 @@
     {
       "path": "archive/docs/progress/evidence/calc-line-height-1f31bc59-div-coverage-zoom-v1.json",
       "source_commit": "0c67312fe88f902029835525a0ed6e38191591b6"
+    },
+    {
+      "path": "archive/docs/progress/evidence/t8-harfbuzz-units-div-census-v1.json",
+      "source_commit": "dccc14e3fac1747c82189f3ab42b5c233185b066"
+    },
+    {
+      "path": "archive/docs/progress/evidence/t8-harfbuzz-units-div-census-zoom-v1.json",
+      "source_commit": "dccc14e3fac1747c82189f3ab42b5c233185b066"
+    },
+    {
+      "path": "archive/docs/progress/evidence/t8-harfbuzz-units-div-coverage-v1.json",
+      "source_commit": "dccc14e3fac1747c82189f3ab42b5c233185b066"
+    },
+    {
+      "path": "archive/docs/progress/evidence/t8-harfbuzz-units-div-coverage-zoom-v1.json",
+      "source_commit": "dccc14e3fac1747c82189f3ab42b5c233185b066"
     }
   ]
 }
