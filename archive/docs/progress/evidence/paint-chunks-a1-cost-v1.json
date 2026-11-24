@@ -1,0 +1,41 @@
+{
+  "check": "RFC 0006 A1 cost, main against A1",
+  "main_commit": "4e69bdf42e5f93d2febda50e08222313221867f2",
+  "a1_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126",
+  "platform": "WSL2 Linux x86_64, 24 threads, release builds, under the census lock, separate target directories per side",
+  "frame_cost": {
+    "probe": "sample-motion 9b37723 measure_frame_cost.rs, copied unchanged into crates/divui/tests",
+    "conditions": "1280x800 at 1x, 120 frames after 10 warm-up frames, 3 alternating rounds, load average 3 to 8",
+    "binaries_sha256": {
+      "main": "32edce513b0526e94c6a7cbf5db763f2208bd605433d7566daecf30e5499f5f0",
+      "a1": "6264ff4c04108ef98ece56a45ba72cd8d5f1c1b919ec2a4b14635a6c7736f0ce"
+    }
+  },
+  "p7": {
+    "probe": "sample-canvas docs/probes tests/probes.rs p7_per_frame_cost_of_the_image_workaround",
+    "edit": "P6 only: canvas.set_pointer_capture(PointerId(0)).unwrap(), because set_pointer_capture(0) no longer compiles",
+    "conditions": "640x480 canvas in a 1024x768 viewport, 65 frames, 5 alternating rounds, load average about 1.2",
+    "binaries_sha256": {
+      "main": "5ef3ca3dd517cce744753988f44d84cf6fad307aa572a3d6a082f93762f112c7",
+      "a1": "1ae9d2d75f4951d42b8223084f59cd73313ca0b0b8fa1093f480c6643611e9b6"
+    }
+  },
+  "logs": {
+    "paint-chunks-a1-cost-v1/frame-cost/a1-1.log": "a9eb6ccff8a2f671c39e7a3e406ee10234472a42ebadde574ba3886b386688f5",
+    "paint-chunks-a1-cost-v1/frame-cost/a1-2.log": "4ddb21ae99f4e416c8e80c0033d0934588f1aa9b6ad6557928b8c6c2f4d33d83",
+    "paint-chunks-a1-cost-v1/frame-cost/a1-3.log": "db0d7c7644e835760f80d196dc92e32ccc5b8ee46a5cfec74b57a822fb67cdb5",
+    "paint-chunks-a1-cost-v1/frame-cost/main-1.log": "d161b7c521ed758a57d56fb327ce763e78a938c91fdc7c7bacf2c8a1cc26bafc",
+    "paint-chunks-a1-cost-v1/frame-cost/main-2.log": "2d3c1f0322395037371bd823b4bc310a428c8b64a86bd43528d662327c31327f",
+    "paint-chunks-a1-cost-v1/frame-cost/main-3.log": "97f25d148609ff93e207445d5752b4b34c57904c2b019f0c04122ab123180a04",
+    "paint-chunks-a1-cost-v1/p7/a1-1.log": "605a66b32e851c22c017faf882d6edb2f99d8a0de9de6445786a04eb087f4ffc",
+    "paint-chunks-a1-cost-v1/p7/a1-2.log": "60b75cd58b005b8e0fed1d4a315d4f3631ec1bde62ad51d76c4d10c418b9f499",
+    "paint-chunks-a1-cost-v1/p7/a1-3.log": "7b1e47f6280a7244a83a0e9d1779980efd0f284a4bdd885951cd709d41a81a11",
+    "paint-chunks-a1-cost-v1/p7/a1-4.log": "ac66591dccc624f0ec30e8214bb37f7bac63dd754380d764ba262f2e17697273",
+    "paint-chunks-a1-cost-v1/p7/a1-5.log": "29474ec66efd0b8aa657876568953dd71611b937a217059d3274e42867fb8e2a",
+    "paint-chunks-a1-cost-v1/p7/main-1.log": "5e12ce54a8a2c489969ae64b8247715a2eb129d1a9099195062e679506d81cad",
+    "paint-chunks-a1-cost-v1/p7/main-2.log": "131b03eaacf8fb5a6ef2352b2a72b071e0ecd5b4910e15f50ea38989860c8906",
+    "paint-chunks-a1-cost-v1/p7/main-3.log": "949880d4caa738aa7870e1da4d278658ff5d8a7f1975d69f93832cdc827a06a7",
+    "paint-chunks-a1-cost-v1/p7/main-4.log": "f59bc3da33bfe26233f52498d55ca8ae9ab0b24c1c676e53bb8a4ed407701510",
+    "paint-chunks-a1-cost-v1/p7/main-5.log": "a1116e3bcb103c5c67537b7efdfed0537206f5fbee0a49cba0a8dc4c69be6d9d"
+  }
+}

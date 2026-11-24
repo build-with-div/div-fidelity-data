@@ -1,0 +1,46 @@
+{
+  "check": "pixel_compare damage-coverage, RFC 0006 A1",
+  "verdict": "PASS",
+  "head_commit": "0cdd6532d6867c40182eda56b9dffec152e5684d",
+  "main_commit": "271415b0b88c9bd41557c68bd84545aff77beef6",
+  "platform": "WSL2 Linux x86_64, clang, under the census lock",
+  "build": "cargo build --locked --release --package pixel-compare --bin pixel_compare --config profile.release.package.pixel-compare.opt-level=0 (fixture crate unoptimized, engine crates release)",
+  "skia_extra_cflags": [
+    "-DSK_SUPPORT_LEGACY_CONIC_CHOP",
+    "-DSK_ENABLE_LEGACY_SHADERCONTEXT",
+    "-USK_ENABLE_AVX512_OPTS",
+    "-DSK_USE_FREETYPE_EMBOLDEN",
+    "-DSK_GAMMA_EXPONENT=1.2",
+    "-DSK_GAMMA_CONTRAST=0.2",
+    "-USK_GAMMA_APPLY_TO_A8",
+    "-fno-strict-aliasing",
+    "-msse3"
+  ],
+  "skia_flags_source": "args.gn of the release skia-bindings build",
+  "fixtures": 7209,
+  "groups": 198,
+  "mutations": 14,
+  "scales": {
+    "1x": {
+      "steps": 100898,
+      "uncovered_steps": 0,
+      "full_viewport_steps": 522,
+      "fixture_errors": 0,
+      "aborted_fixtures": 2
+    },
+    "2x": {
+      "steps": 100898,
+      "uncovered_steps": 0,
+      "full_viewport_steps": 522,
+      "fixture_errors": 0,
+      "aborted_fixtures": 2
+    }
+  },
+  "known_aborts": [
+    "wpt/css_grid/grid-definition_grid-support-named-grid-lines-002-ref",
+    "wpt/css_grid/grid-definition_grid-support-named-grid-lines-003-ref"
+  ],
+  "known_abort_rule": "counted only with 'memory allocation of N bytes failed' under an 8 GB RLIMIT_AS; any other abort is no result",
+  "log": "paint-chunks-a1-damage-gate-linux-v1.log",
+  "log_sha256": "dd96ce9be20f7b3ddfc4d4cab1d7a494a5052f1f34f2a611af6b459cdecd5c90"
+}

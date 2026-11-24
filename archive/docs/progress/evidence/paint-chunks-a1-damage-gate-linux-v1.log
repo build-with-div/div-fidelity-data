@@ -1,0 +1,36 @@
+7209 fixtures in 198 groups
+== 1x: 100898 steps, 0 with uncovered pixels, 522 full-viewport, 0 fixture errors, 2 aborted fixtures
+   ABORT wpt/css_grid/grid-definition_grid-support-named-grid-lines-002-ref (exit -6, last )
+   ABORT wpt/css_grid/grid-definition_grid-support-named-grid-lines-003-ref (exit -6, last )
+   paint/background-color: 7207 steps, 28 unchanged, 72 full-viewport; damaged 64.7%, changed 31.5%
+   paint/color: 7207 steps, 6984 unchanged, 38 full-viewport; damaged 4.9%, changed 0.0%
+   composite/opacity: 7207 steps, 48 unchanged, 38 full-viewport; damaged 68.2%, changed 33.6%
+   layout/margin-left: 7207 steps, 41 unchanged, 38 full-viewport; damaged 42.0%, changed 2.4%
+   layout/width: 7207 steps, 35 unchanged, 39 full-viewport; damaged 40.7%, changed 29.5%
+   intrinsic/font-size: 7207 steps, 5424 unchanged, 36 full-viewport; damaged 7.9%, changed 0.3%
+   subtree/append: 7207 steps, 336 unchanged, 36 full-viewport; damaged 22.3%, changed 0.5%
+   scroll/to-13: 7207 steps, 6285 unchanged, 1 full-viewport; damaged 11.6%, changed 0.4%
+   animation/start: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.3%, changed 6.4%
+   animation/250ms: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.3%, changed 6.4%
+   animation/600ms: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.3%, changed 6.4%
+   subtree/display-none: 7207 steps, 3 unchanged, 38 full-viewport; damaged 23.3%, changed 10.3%
+   subtree/display-block: 7207 steps, 1 unchanged, 39 full-viewport; damaged 23.4%, changed 10.1%
+   subtree/remove: 7207 steps, 1 unchanged, 39 full-viewport; damaged 23.4%, changed 10.1%
+== 2x: 100898 steps, 0 with uncovered pixels, 522 full-viewport, 0 fixture errors, 2 aborted fixtures
+   ABORT wpt/css_grid/grid-definition_grid-support-named-grid-lines-002-ref (exit -6, last )
+   ABORT wpt/css_grid/grid-definition_grid-support-named-grid-lines-003-ref (exit -6, last )
+   paint/background-color: 7207 steps, 28 unchanged, 72 full-viewport; damaged 64.7%, changed 31.5%
+   paint/color: 7207 steps, 6984 unchanged, 38 full-viewport; damaged 4.9%, changed 0.0%
+   composite/opacity: 7207 steps, 48 unchanged, 38 full-viewport; damaged 68.2%, changed 33.6%
+   layout/margin-left: 7207 steps, 41 unchanged, 38 full-viewport; damaged 42.0%, changed 2.4%
+   layout/width: 7207 steps, 35 unchanged, 39 full-viewport; damaged 40.7%, changed 29.5%
+   intrinsic/font-size: 7207 steps, 5422 unchanged, 36 full-viewport; damaged 7.9%, changed 0.3%
+   subtree/append: 7207 steps, 336 unchanged, 36 full-viewport; damaged 22.3%, changed 0.5%
+   scroll/to-13: 7207 steps, 6285 unchanged, 1 full-viewport; damaged 11.6%, changed 0.4%
+   animation/start: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.2%, changed 6.4%
+   animation/250ms: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.2%, changed 6.4%
+   animation/600ms: 7207 steps, 11 unchanged, 36 full-viewport; damaged 12.2%, changed 6.4%
+   subtree/display-none: 7207 steps, 3 unchanged, 38 full-viewport; damaged 23.3%, changed 10.3%
+   subtree/display-block: 7207 steps, 1 unchanged, 39 full-viewport; damaged 23.4%, changed 10.1%
+   subtree/remove: 7207 steps, 1 unchanged, 39 full-viewport; damaged 23.3%, changed 10.1%
+PASS

@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23296,
-      "bytes": 782598455,
-      "sha256": "2c54b26add9816219911907683111220f9f0a6318ae7a173f20f87f8d3f5f038"
+      "files": 23317,
+      "bytes": 782621959,
+      "sha256": "7613278064572ade8eedfa228056c72feee5058c1a32eb35feb7bc9952ca5d91"
     }
   },
   "additions": [
@@ -449,6 +449,90 @@
     {
       "path": "archive/docs/progress/evidence/multi-run-width-div-coverage-zoom-v1.json",
       "source_commit": "691b95684692f3daa6e9bdf5f3d6f4defd0475f8"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-census-v1.json",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-coverage-v1.json",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1.json",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/a1-1.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/a1-2.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/a1-3.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/main-1.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/main-2.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/main-3.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/a1-1.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/a1-2.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/a1-3.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/a1-4.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/a1-5.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-1.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-2.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-3.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-4.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-5.log",
+      "source_commit": "7c816acbd1403e549419fbb25cd68144f6ddf126"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-damage-gate-v1.json",
+      "source_commit": "0cdd6532d6867c40182eda56b9dffec152e5684d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/paint-chunks-a1-damage-gate-linux-v1.log",
+      "source_commit": "0cdd6532d6867c40182eda56b9dffec152e5684d"
     }
   ]
 }

@@ -1,0 +1,7 @@
+
+running 1 test
+test p7_per_frame_cost_of_the_image_workaround ... P7 640x480 canvas in 1024x768 viewport, 65 frames pushed: draw 0.34 ms, readback+register+set 0.27 ms, Div render 11.30 ms per frame; unchanged-document render 2.496 ms
+ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 6 filtered out; finished in 0.94s
+
