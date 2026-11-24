@@ -62,6 +62,10 @@ b1ed072015d93e6a95b4f044e45c9456e8df9a8436b1ed74430142bb4ca11387  320  archive/d
 936cc866a3297ad38fd8e0e0a4e2eabf672c03a23117e54c52edb533f71a9a20  6788  archive/docs/progress/evidence/flex-row-break-propagation-census-v1.json
 1962e8ded8460f2bd990c3f7f39a7c483a2b61acf8651a5f287585e43b1d2960  1855  archive/docs/progress/evidence/flex-vertical-table-item-size-census-v1.json
 dda9d129976f8c110fac963d221953e8c50a17c3d4f0850e9af5182bf7201d1f  2502  archive/docs/progress/evidence/floated-multicol-monolithic-overflow-census-v1.json
+c7ed8246a468352be567fc8fbc85c6a1f91e94c30a9e1bbf87fad287eb92584e  315  archive/docs/progress/evidence/font-cache-parent-release-div-census-v1.json
+a52dbfd6571cf09d74e096ab1dfb9650a3edf9aa22b90f5c818985799bb0fa1a  315  archive/docs/progress/evidence/font-cache-parent-release-div-census-zoom-v1.json
+d6d2a8bb5f923f364cab87dbade81967da17db89444f071e8b360f539763701c  320  archive/docs/progress/evidence/font-cache-parent-release-div-coverage-v1.json
+44ec06474e7b75df7b346319522d9299e50d83fe744315d8c346395cf7116328  318  archive/docs/progress/evidence/font-cache-parent-release-div-coverage-zoom-v1.json
 1a42dd0429a1a7b054781261b09cdd9bb687486fbaa8bff35514fb3d0a63d1a5  2555  archive/docs/progress/evidence/font-size-precision-t4-div-census-v1.json
 d2ac539768e1ed79f3480ff3fa811a100568ada3a6b7a614f919e50d9842b290  320  archive/docs/progress/evidence/font-size-precision-t4-div-coverage-v1.json
 c4d8fdb507e3c79c1b42e9e218e1f4bc43d2c1faafd8b2fa823b87560181dfad  2291  archive/docs/progress/evidence/forced-overflow-first-fragment-census-v1.json

@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23279,
-      "bytes": 782584525,
-      "sha256": "68d40433f2cdb743ac5483299af9e40f2dc1e96146761f5f20601eae3b2b10b6"
+      "files": 23283,
+      "bytes": 782585793,
+      "sha256": "9ef6998d6dabfd6a05b59b563149136b6890472ab7c9b651c92748a0c4b2730a"
     }
   },
   "additions": [
@@ -381,6 +381,22 @@
     {
       "path": "archive/docs/progress/evidence/internal-css-names-div-coverage-zoom-v1.json",
       "source_commit": "5bbcfff3012e17e2eb39e58274a5c9aa3979d58a"
+    },
+    {
+      "path": "archive/docs/progress/evidence/font-cache-parent-release-div-census-v1.json",
+      "source_commit": "0a11dbec6b53ee2c943c4ef8e51398078f954323"
+    },
+    {
+      "path": "archive/docs/progress/evidence/font-cache-parent-release-div-census-zoom-v1.json",
+      "source_commit": "0a11dbec6b53ee2c943c4ef8e51398078f954323"
+    },
+    {
+      "path": "archive/docs/progress/evidence/font-cache-parent-release-div-coverage-v1.json",
+      "source_commit": "0a11dbec6b53ee2c943c4ef8e51398078f954323"
+    },
+    {
+      "path": "archive/docs/progress/evidence/font-cache-parent-release-div-coverage-zoom-v1.json",
+      "source_commit": "0a11dbec6b53ee2c943c4ef8e51398078f954323"
     }
   ]
 }
