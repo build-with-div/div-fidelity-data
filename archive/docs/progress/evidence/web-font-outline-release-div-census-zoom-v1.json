@@ -1,0 +1,14 @@
+{
+ "comparisons": 17796,
+ "chromium_identical": 17796,
+ "openui_changed": 0,
+ "gains": 0,
+ "losses": 0,
+ "improved": 0,
+ "worsened": 0,
+ "errors": 0,
+ "base_exact": 10404,
+ "head_exact": 10404,
+ "base_commit": "db3e2443e27c7b750e56e7ecb047950f21bf067f",
+ "head_commit": "2d435c091a86187851c37c9dec1bc4135d6dbecf"
+}
