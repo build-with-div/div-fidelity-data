@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23283,
-      "bytes": 782585793,
-      "sha256": "9ef6998d6dabfd6a05b59b563149136b6890472ab7c9b651c92748a0c4b2730a"
+      "files": 23287,
+      "bytes": 782587061,
+      "sha256": "4ff440b6d02460ae2637b9c1f965ee7cc7613acfe91b7c9420ac951a1538249f"
     }
   },
   "additions": [
@@ -397,6 +397,22 @@
     {
       "path": "archive/docs/progress/evidence/font-cache-parent-release-div-coverage-zoom-v1.json",
       "source_commit": "0a11dbec6b53ee2c943c4ef8e51398078f954323"
+    },
+    {
+      "path": "archive/docs/progress/evidence/css-dropped-names-div-census-v1.json",
+      "source_commit": "d3f4c310bc1c52c558f88041cb99f9855636eeb2"
+    },
+    {
+      "path": "archive/docs/progress/evidence/css-dropped-names-div-census-zoom-v1.json",
+      "source_commit": "d3f4c310bc1c52c558f88041cb99f9855636eeb2"
+    },
+    {
+      "path": "archive/docs/progress/evidence/css-dropped-names-div-coverage-v1.json",
+      "source_commit": "d3f4c310bc1c52c558f88041cb99f9855636eeb2"
+    },
+    {
+      "path": "archive/docs/progress/evidence/css-dropped-names-div-coverage-zoom-v1.json",
+      "source_commit": "d3f4c310bc1c52c558f88041cb99f9855636eeb2"
     }
   ]
 }

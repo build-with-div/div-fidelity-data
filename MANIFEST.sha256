@@ -38,6 +38,10 @@ d4ed2b7367591f228c181fbaf03cbe0fa46b0c48cb65e7ef0be06fdd9e750323  2952  archive/
 9d989f0cabee16fd2f6d2c9ae7f17eff6e8d161360a59cf31ce52a19e5b96565  7449  archive/docs/progress/evidence/column-paint-phases-census-v1.json
 ecc9ed7e224f83e4692556595b3bcc123cdccbf336d19530a24dfed0ffe11d19  1131  archive/docs/progress/evidence/column-rule-draw-box-side-census-v1.json
 1c5f3fe1cf738c496017215ce4f4d9e2b2150e0a76818f537916f8ed9b50a245  3093  archive/docs/progress/evidence/composited-layer-transparent-raster-census-v1.json
+2b2109a371f39df30a99075ae3e5721a9a0b041edb0ca61e42277292c53805e9  315  archive/docs/progress/evidence/css-dropped-names-div-census-v1.json
+e4ace88e6c8a25c0d6e43fcdeb68d02a2c4b83576c67b9c53fba833c122e33f1  315  archive/docs/progress/evidence/css-dropped-names-div-census-zoom-v1.json
+44be93a0e60277205665e16c64299d7514024fe2eb53fa231ff261d4bad90ba5  320  archive/docs/progress/evidence/css-dropped-names-div-coverage-v1.json
+296accaf1e48852ed43df40ee8e18e741e6370f074eed82e1cef7410ceaf7858  318  archive/docs/progress/evidence/css-dropped-names-div-coverage-zoom-v1.json
 6a61d9f45e005737dc6c4825a6092cd1c7c1e376d397388e782d627a5ab9d9cc  14632  archive/docs/progress/evidence/double-border-stroked-rings-census-v1.json
 81a95e9da08691b6902b04eae7f9e050da9c21f6a380a4cba871230f3d1aa60a  2094  archive/docs/progress/evidence/dsf-oracle-2026-11-16/README.md
 fcb739956d0c2e3344e8b4a5c1fbbe1398ef11be22ba0f2ccacf335d5f3f71dd  5287  archive/docs/progress/evidence/dsf-oracle-2026-11-16/build_rows.py
