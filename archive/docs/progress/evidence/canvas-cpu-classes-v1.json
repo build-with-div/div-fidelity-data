@@ -1,0 +1,315 @@
+{
+ "captures": [
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "ubuntu-24.04-1",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "Intel(R) Xeon(R) 6975P-C",
+   "fingerprint": "5fc0454d9f4c2325",
+   "job": "ubuntu-24.04-2",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "Intel(R) Xeon(R) 6975P-C",
+   "fingerprint": "5fc0454d9f4c2325",
+   "job": "ubuntu-24.04-3",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "ubuntu-24.04-4",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "Intel(R) Xeon(R) 6975P-C",
+   "fingerprint": "5fc0454d9f4c2325",
+   "job": "ubuntu-24.04-5",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "Intel(R) Xeon(R) 6975P-C",
+   "fingerprint": "5fc0454d9f4c2325",
+   "job": "ubuntu-24.04-6",
+   "platform": "linux",
+   "run_id": "45329548510",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8a73a6f0d64ef74a3a0101da1e19b9c8ae7b0458"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-2",
+   "platform": "windows",
+   "run_id": "45329917393",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8601352a468e1121636a46aa8f0b0c7ed9673b31"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 9V74 80-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-5",
+   "platform": "windows",
+   "run_id": "45329917393",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8601352a468e1121636a46aa8f0b0c7ed9673b31"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-6",
+   "platform": "windows",
+   "run_id": "45329917393",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "8601352a468e1121636a46aa8f0b0c7ed9673b31"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-1",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 9V45 96-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-2",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-3",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-4",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-5",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "AMD EPYC 7763 64-Core Processor",
+   "fingerprint": "f7ba415b37cf2325",
+   "job": "windows-2025-6",
+   "platform": "windows",
+   "run_id": "45330160761",
+   "source": "GitHub Actions hosted runner",
+   "workflow_commit": "7f549c1e5fee34aedd2fec0e8344bd1e2db8ba53"
+  },
+  {
+   "chrome_sha256": "5a261cd9e0fa71f40fa5df4b9841da4f3311f9175d2e5868c27cb510ccd28505",
+   "chromium": "147.0.7727.50",
+   "cpu_model": "12th Gen Intel(R) Core(TM) i9-12900KF",
+   "date": "2026-11-24T05:05:12Z",
+   "fingerprint": "5fc0454d9f4c2325",
+   "flags": [
+    "--headless",
+    "--disable-gpu"
+   ],
+   "platform": "windows",
+   "result": "58 canvases and all observations byte-identical to the stored Windows oracle",
+   "source": "local capture of pinned Chromium, not a CI runner"
+  }
+ ],
+ "classes": {
+  "5fc0454d9f4c2325": "intel",
+  "f7ba415b37cf2325": "amd"
+ },
+ "description": "Pinned Chromium 147.0.7727.50 canvas captures by CPU class for div#126 (gradient-composite and composite-modes traces), from a temporary branch canvas/cpu-capture-tmp that has been deleted.",
+ "div_commit": "48f637f0ee5ac78d222c0f52939e9557391c665f",
+ "fingerprint": "FNV-1a 64 over AVX RCPPS of every float in [1, 2) (tools/canvas/rcpps_fingerprint.rs)",
+ "gates": {
+  "linux": "4 Intel captures equal the stored oracle; 2 AMD captures differ only at the 7 known pixels; composite-modes does not differ by class",
+  "windows": "9 AMD captures differ only at the 7 known pixels; composite-modes does not differ by class; Intel from the local capture below"
+ },
+ "known_pixels": [
+  [
+   "gradient-composite.color-dodge",
+   83,
+   [
+    61,
+    139,
+    138,
+    235
+   ],
+   [
+    61,
+    139,
+    139,
+    235
+   ]
+  ],
+  [
+   "gradient-composite.color-dodge",
+   275,
+   [
+    61,
+    139,
+    138,
+    235
+   ],
+   [
+    61,
+    139,
+    139,
+    235
+   ]
+  ],
+  [
+   "gradient-composite.hue",
+   107,
+   [
+    130,
+    86,
+    143,
+    235
+   ],
+   [
+    130,
+    87,
+    143,
+    235
+   ]
+  ],
+  [
+   "gradient-composite.hue",
+   299,
+   [
+    130,
+    86,
+    143,
+    235
+   ],
+   [
+    130,
+    87,
+    143,
+    235
+   ]
+  ],
+  [
+   "gradient-composite.saturation",
+   79,
+   [
+    35,
+    146,
+    84,
+    240
+   ],
+   [
+    34,
+    146,
+    84,
+    240
+   ]
+  ],
+  [
+   "gradient-composite.saturation",
+   155,
+   [
+    42,
+    140,
+    94,
+    235
+   ],
+   [
+    43,
+    140,
+    94,
+    235
+   ]
+  ],
+  [
+   "gradient-composite.saturation",
+   271,
+   [
+    35,
+    146,
+    84,
+    240
+   ],
+   [
+    34,
+    146,
+    84,
+    240
+   ]
+  ]
+ ],
+ "known_pixels_format": "canvas, pixel index, Intel RGBA, AMD RGBA",
+ "per_class_canvases": [
+  "gradient-composite.color-dodge",
+  "gradient-composite.hue",
+  "gradient-composite.saturation"
+ ],
+ "windows_intel": "No CI Windows Intel runner reached capture in 24 jobs: 3 of 18 Windows jobs ran on Intel; two failed on a workflow hash-check bug before capture and one failed deleting Chrome's temporary profile. Windows Intel comes from a local capture of pinned Chromium."
+}

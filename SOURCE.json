@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23287,
-      "bytes": 782587061,
-      "sha256": "4ff440b6d02460ae2637b9c1f965ee7cc7613acfe91b7c9420ac951a1538249f"
+      "files": 23288,
+      "bytes": 782595919,
+      "sha256": "4a1cb68ca9b1eaf435d333b84b9d4e232a2515f960f24a84eb83b566e80c44f8"
     }
   },
   "additions": [
@@ -413,6 +413,10 @@
     {
       "path": "archive/docs/progress/evidence/css-dropped-names-div-coverage-zoom-v1.json",
       "source_commit": "d3f4c310bc1c52c558f88041cb99f9855636eeb2"
+    },
+    {
+      "path": "archive/docs/progress/evidence/canvas-cpu-classes-v1.json",
+      "source_commit": "48f637f0ee5ac78d222c0f52939e9557391c665f"
     }
   ]
 }
