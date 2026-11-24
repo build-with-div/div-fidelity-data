@@ -96,6 +96,10 @@ c5e8719d0e5023223ed03159ad467cc754e8af63841c7f4566aee4edd01f9042  318  archive/d
 cf4d2af709c6db59e4d2f81f7b779ea6355fb3a2c40f3a5c0bcae14095faedeb  8094  archive/docs/progress/evidence/linear-gradient-tile-space-census-v1.json
 e4ad132f4c21e1b2628d342f829d29be11fec1f1abe47af16a07fc2c05dcf2c3  32814  archive/docs/progress/evidence/linux-subpixel-ascent-borrow-census-v1.json
 121bdaf59d8ec69558397f5e4e5312402acb3a304d624bafcb56460952e56e01  9862  archive/docs/progress/evidence/linux-text-oracle-v2.json
+112bcfda89d47a7a7d14352b95c12462da75fbbf43c9e9188f4cdf66ddadae1b  315  archive/docs/progress/evidence/media-queries-div-census-v1.json
+056193b23a3933d23900f77d27cfab3154b176b65c735203a50e06fe6a50ae3e  315  archive/docs/progress/evidence/media-queries-div-census-zoom-v1.json
+b4c75d114d083984bc17a543e63bd36c486da32548c81d3afefdc2a499b9bccf  320  archive/docs/progress/evidence/media-queries-div-coverage-v1.json
+6d933325d596bd4fa57fb7d194459d47242a979a4f58fe3ff24f8f4b4493a770  318  archive/docs/progress/evidence/media-queries-div-coverage-zoom-v1.json
 cabc3df89d0e1da6d8c1529088e5988c1f5dd4f8bcf2e9c2c68f4c78d053218b  315  archive/docs/progress/evidence/multi-run-width-div-census-v1.json
 89b623e57775e1807ac931266cc545fedc30a5a29ce2d73f4a7a8566dc1c6fb8  315  archive/docs/progress/evidence/multi-run-width-div-census-zoom-v1.json
 e2bde46cc4ed4fcc87eac443ddf184ce1004ef9cbb7a227a2af059c97ee1fe96  320  archive/docs/progress/evidence/multi-run-width-div-coverage-v1.json

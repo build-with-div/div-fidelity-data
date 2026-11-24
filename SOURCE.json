@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23317,
-      "bytes": 782621959,
-      "sha256": "7613278064572ade8eedfa228056c72feee5058c1a32eb35feb7bc9952ca5d91"
+      "files": 23321,
+      "bytes": 782623227,
+      "sha256": "bd53beb4b22dbb71b379cea944400b27c76dffb73b1942d6b9d11da5c5f2bd2f"
     }
   },
   "additions": [
@@ -533,6 +533,22 @@
     {
       "path": "archive/docs/progress/evidence/paint-chunks-a1-damage-gate-linux-v1.log",
       "source_commit": "0cdd6532d6867c40182eda56b9dffec152e5684d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/media-queries-div-census-v1.json",
+      "source_commit": "8106a6d2539bb000dab26e43e498d7b456079b7e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/media-queries-div-census-zoom-v1.json",
+      "source_commit": "8106a6d2539bb000dab26e43e498d7b456079b7e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/media-queries-div-coverage-v1.json",
+      "source_commit": "8106a6d2539bb000dab26e43e498d7b456079b7e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/media-queries-div-coverage-zoom-v1.json",
+      "source_commit": "8106a6d2539bb000dab26e43e498d7b456079b7e"
     }
   ]
 }
