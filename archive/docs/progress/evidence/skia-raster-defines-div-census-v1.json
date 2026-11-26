@@ -1,0 +1,57 @@
+{
+ "suite": "census",
+ "base_commit": "4dc219ed92fd376c96095483f8025a896f5ee0e9",
+ "head_commit": "4dc219ed92fd376c96095483f8025a896f5ee0e9",
+ "base_skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+ "head_skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\" ]",
+ "head_extra_cflags": [
+  "-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS",
+  "-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE",
+  "-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM",
+  "-DSK_LEGACY_INITWITHPREV_LAYER_SIZING"
+ ],
+ "data_commit": "b6c41deb146d539320a207f15c000eff415b619e",
+ "base_source": "WSL clone on F: (/mnt/f/div-out/fidelity/census-fidelity, 9P)",
+ "head_source": "WSL ext4 clone (~/census-src/fidelity/census-fidelity)",
+ "comparisons": 23728,
+ "chromium_identical": 23728,
+ "openui_changed": 0,
+ "status_changed": 0,
+ "gains": 0,
+ "losses": 0,
+ "improved": 0,
+ "worsened": 0,
+ "base_exact": 16297,
+ "head_exact": 16297,
+ "base_errors": 0,
+ "head_errors": 0,
+ "per_profile": {
+  "desktop-1280x720@1.25": {
+   "comparisons": 5932,
+   "base_exact": 2183,
+   "head_exact": 2183,
+   "openui_changed": 0
+  },
+  "desktop-1920x1080@1.5": {
+   "comparisons": 5932,
+   "base_exact": 3065,
+   "head_exact": 3065,
+   "openui_changed": 0
+  },
+  "legacy-800x600@1": {
+   "comparisons": 5932,
+   "base_exact": 5893,
+   "head_exact": 5893,
+   "openui_changed": 0
+  },
+  "mobile-375x667@2": {
+   "comparisons": 5932,
+   "base_exact": 5156,
+   "head_exact": 5156,
+   "openui_changed": 0
+  }
+ },
+ "only_in_base": [],
+ "only_in_head": [],
+ "changed_ids": []
+}
