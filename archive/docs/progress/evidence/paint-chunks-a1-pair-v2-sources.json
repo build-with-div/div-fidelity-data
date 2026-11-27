@@ -1,0 +1,39 @@
+{
+ "pair": "RFC 0006 A1 (#146), census and CSS Grid coverage, default profiles, no --profile, 16 jobs",
+ "chromium": {
+  "version": "147.0.7727.50",
+  "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848"
+ },
+ "coverage_ids_sha256": "179fe6619f732b7d80f8b34e5a5a5a039fdd9453aedc5e560ffcb2dcff8dd8af",
+ "base": {
+  "commit": "4dc219ed92fd376c96095483f8025a896f5ee0e9",
+  "measured_by": "engine track, #149 run of main 4dc219ed, reused because the recipe is identical",
+  "pixel_compare_sha256": "89b154c367fa98916488f158e1b6b9c47975b46b46d3d7b6778b3abe112a0508",
+  "build_receipt_sha256": "6fa6f267448acd40c71a5373801e830e7290a7bc1f5748e95971a053f7eedf5d",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "41a6240fd34f28688f203285fed8c5029bb0663d16872eb277a21b7560d3b25d",
+   "bytes": 153211754
+  },
+  "coverage_summary": {
+   "sha256": "e7ee6727960525c7b49e1a299def0b014582376ae3bc49ad41dcb35139f61ffe",
+   "bytes": 21137321
+  }
+ },
+ "head": {
+  "commit": "974962a7858535b71ced41c730924cc00387e9e2",
+  "measured_by": "SVG track",
+  "pixel_compare_sha256": "ef0437bb55ad90aa0fff39a3aa09cbb2d807021fb41dd6c8dc5b2e0f57ae970d",
+  "build_receipt_sha256": "b1068fdcae6669a5477f1a9a2832973ae210d364c60c3a45602885f94bfbb1ab",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "995c9bc0f6e1c3726cd0fa4efbecb0e3f0bc2b8994528018f0579e68a7510391",
+   "bytes": 153211734
+  },
+  "coverage_summary": {
+   "sha256": "c99fd66609f5d564ff8b32f8ddace1b350a9d7fae5e17032d8132a9d010d2d88",
+   "bytes": 21137333
+  }
+ },
+ "not_included": "The full summaries (153 MB and 21 MB per side) and the build receipts, which hold local paths; their hashes are above and inside the summaries."
+}

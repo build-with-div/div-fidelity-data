@@ -134,6 +134,7 @@ edfadd5832eb1a79b5bb7585e1b662226d56d27789dfa0a2cca5505be4c512b8  1853  archive/
 fbbda5db7bbae605c56a3494f63e0f11885a437406bf885d180ef86ebeab23b1  3995  archive/docs/progress/evidence/orthogonal-atomic-min-content-census-v1.json
 b9ed7ecc26c46c96b44dee784849235be2f8119019944184e1dc5ab59fb07b14  6854  archive/docs/progress/evidence/overflow-continuation-principal-box-census-v1.json
 f40bbad156e5f775c212bd5c4994f0d5baf7970639b75b44934dc52dc8f53ab5  315  archive/docs/progress/evidence/paint-chunks-a1-census-v1.json
+9dd5a3630f7941e1492089e884439c472826c92bee42ff1d3acd92f17461cbd8  315  archive/docs/progress/evidence/paint-chunks-a1-census-v2.json
 e3f51f2d0d6c02b9f292e39cdfd29ccf9491568f2e248eb73fe07fd1353868cc  3131  archive/docs/progress/evidence/paint-chunks-a1-cost-v1.json
 a9eb6ccff8a2f671c39e7a3e406ee10234472a42ebadde574ba3886b386688f5  1917  archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/a1-1.log
 4ddb21ae99f4e416c8e80c0033d0934588f1aa9b6ad6557928b8c6c2f4d33d83  1912  archive/docs/progress/evidence/paint-chunks-a1-cost-v1/frame-cost/a1-2.log
@@ -152,8 +153,10 @@ ac66591dccc624f0ec30e8214bb37f7bac63dd754380d764ba262f2e17697273  335  archive/d
 f59bc3da33bfe26233f52498d55ca8ae9ab0b24c1c676e53bb8a4ed407701510  335  archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-4.log
 a1116e3bcb103c5c67537b7efdfed0537206f5fbee0a49cba0a8dc4c69be6d9d  335  archive/docs/progress/evidence/paint-chunks-a1-cost-v1/p7/main-5.log
 2d5450e82f04ee6d23163629964b3090c1b6f2617480e7eb4e5c535221362393  320  archive/docs/progress/evidence/paint-chunks-a1-coverage-v1.json
+96e882948df30b216fad7b5a259893f5d42299d0d45f9c3a2f8f1df50259d619  320  archive/docs/progress/evidence/paint-chunks-a1-coverage-v2.json
 dd96ce9be20f7b3ddfc4d4cab1d7a494a5052f1f34f2a611af6b459cdecd5c90  3229  archive/docs/progress/evidence/paint-chunks-a1-damage-gate-linux-v1.log
 ace2cb512b19c24215f0a84723b2c02d2e83c8cefd61977cdea9eef116f25094  1678  archive/docs/progress/evidence/paint-chunks-a1-damage-gate-v1.json
+7950612a13ef28af0c60e1d1fbb8c7ef034d709f612457e42fd2963da16d2059  2284  archive/docs/progress/evidence/paint-chunks-a1-pair-v2-sources.json
 e8953a804d91624251d581c4762786907e1dccacc34ab3f675f2f882cda61483  18633  archive/docs/progress/evidence/painter-candidate-variants-census-v1.json
 92a769ab99b145b2761153aced9685c54a1f3141f32e01c608771f8408548da9  315  archive/docs/progress/evidence/pointer-window-leave-census-v1.json
 6b6c17c0c961199fa988f55eef5d46a3b85e9db65a16027b0051c22e3af8464e  320  archive/docs/progress/evidence/pointer-window-leave-coverage-v1.json
