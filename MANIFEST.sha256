@@ -248,6 +248,7 @@ a16c1f19438f51f3f8c8a90365e5da71af96ef5eead2d7eee1faef6e5a7b5950  320  archive/d
 78cbe95b383d1380104cb4a4ec591a4d7d3dfb784cda140f63345d54ee6a30ba  20151  archive/docs/progress/evidence/table-anonymous-part-decoration-census-v1.json
 ca64aec396b78629ab68a58b04663e8b1cae40024c82df151a0895ab424034f8  3447  archive/docs/progress/evidence/table-without-columns-spacing-census-v1.json
 67226165b80fd3cebc15df84647596b753dc7bf1c67d33cb9a6903ec0473e1c8  315  archive/docs/progress/evidence/targeted-sampling-b-census-v1.json
+8cb0c5bf47c8c3deeb6b8a2666b5bf3c14579cf74da1a47f1fb990e85225231f  315  archive/docs/progress/evidence/targeted-sampling-b-census-v2.json
 51073385ff6bf7bc7e3c86882ea81efe5c189992ad68be997117c18341ed26d8  1142  archive/docs/progress/evidence/targeted-sampling-b-cost-v1.json
 9f981f6d80a229a3acd6a1f77850c6bdc3df43bf7e88abced84c26c4670169db  1904  archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-b-1.log
 ec0ed555c98226ce5f273bbf8f782bd7815a83419466bab0d1cd8e6f5e89f0ed  1904  archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-b-2.log
@@ -266,8 +267,12 @@ f47220995e88c44d5813d82363c8921ca7dc7f39f86d511c0e1f0f61ca356341  335  archive/d
 6773763144a0bdb9e137b27594a0b4ef5ecb8c282f3bbad17e7cc4d513901fdb  335  archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-4.log
 2c8c5267d7920d84b9b509592398b118d7b4b031698290f38018818ed07aba69  335  archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-5.log
 8b2bf7e1fe90cff599cc4008593849609bb6093892c81bcbd57427f7eda49039  320  archive/docs/progress/evidence/targeted-sampling-b-coverage-v1.json
+9ec3e106f204edc0f98df7431c8907e749740437a6170458e1f6206118ce9013  320  archive/docs/progress/evidence/targeted-sampling-b-coverage-v2.json
+7350ea8c6e0795e6a327f8f4133362b7ffdea395a2e55ff967221d3c72a342ca  940  archive/docs/progress/evidence/targeted-sampling-b-debug-cost-v2.json
 753aed6640614b3be6451fbd9e27c3ac80cc7efebef784e57b358dd57468ac6b  2554  archive/docs/progress/evidence/targeted-sampling-b-pair-v1-sources.json
+724b92dd966c17b4294385a39c5552c68a48cebf88a239265a120ae00a36e5ef  2813  archive/docs/progress/evidence/targeted-sampling-b-pair-v2-sources.json
 6178f63a44312eede375d5f05e361255270d3ed24423ff2db593e60646fb93a7  5559  archive/docs/progress/evidence/targeted-sampling-b-sampled-v1.json
+4c50bcb5268a625ea54fe5f9db5219aa34592b908e176c8a76f8b5f3d2a7c250  5559  archive/docs/progress/evidence/targeted-sampling-b-sampled-v2.json
 6d3e3916ee629dcbda23d723608efae85251cf0422d8aa07a86668d414c88133  1919  archive/docs/progress/evidence/translated-inline-containing-block-insets-census-v1.json
 bdfa8c225b8c9ee27082cf0ab600f8f2f5d9e100311b3e60637316984fce9167  315  archive/docs/progress/evidence/typed-style-constructors-census-v1.json
 e34a1411b0faef7ce8037290c99dac7a21a63b734304b005e120a494a7999e2f  320  archive/docs/progress/evidence/typed-style-constructors-coverage-v1.json

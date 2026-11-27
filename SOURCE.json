@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23390,
-      "bytes": 782892824,
-      "sha256": "80035810d533c9de664be1c91e0ff301b7b6279e4a91a9aa28d6dbedbff07f17"
+      "files": 23395,
+      "bytes": 782902771,
+      "sha256": "eda2741157fea5a643cd4bcc097312306f6846507a8c24472b73959ed0666e52"
     }
   },
   "additions": [
@@ -813,6 +813,26 @@
     {
       "path": "archive/docs/progress/evidence/html-dialog-coverage-v1-sources.json",
       "source_commit": "0cb8d8d5d3c12c0db2363474cd6bcfa08af1179d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-census-v2.json",
+      "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-coverage-v2.json",
+      "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-debug-cost-v2.json",
+      "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-pair-v2-sources.json",
+      "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-sampled-v2.json",
+      "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
     }
   ]
 }

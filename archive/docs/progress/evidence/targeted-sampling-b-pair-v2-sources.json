@@ -1,0 +1,39 @@
+{
+ "pair": "RFC 0006 B review fix: head-only census and CSS Grid coverage of 62c0cba, default profiles, no --profile, 16 jobs, compared with the main 0211362 base of the v1 pair (targeted-sampling-b-pair-v1-sources.json): same WSL host (i9-12900KF), same Chromium binary, same oracle cache and fidelity data pin 26fec8c7",
+ "chromium": {
+  "version": "147.0.7727.50",
+  "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848"
+ },
+ "coverage_ids_sha256": "179fe6619f732b7d80f8b34e5a5a5a039fdd9453aedc5e560ffcb2dcff8dd8af",
+ "base": {
+  "commit": "0211362dfc28b226c11a316e59640488b75bef78",
+  "measured_by": "SVG track, the v1 pair's run",
+  "pixel_compare_sha256": "adbedaee3bfeba45323c4df07f42af6d9d462d144c9d891a2a9c127790ffc14f",
+  "build_receipt_sha256": "02b23720f3b5c0d17636cccf2298d559d142f031c233501f00f1a500e1cb63ca",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "7c3e1012a58b00d0eb4847e8deb0df19b6a7fa8886f0aa48ea1580e519930487",
+   "bytes": 153211911
+  },
+  "coverage_summary": {
+   "sha256": "80454781e8b3df189900c9268ff9fb8c25b04e91836876e1e41567e35a854ca0",
+   "bytes": 21137512
+  }
+ },
+ "head": {
+  "commit": "62c0cbac1af6faa22ce187e6031c7b518668e018",
+  "measured_by": "SVG track, a later run under the census lock",
+  "pixel_compare_sha256": "629c85dc14ca58d1d0fe9fb7ea12d8e370bbbd10889069f858113c681bcca55e",
+  "build_receipt_sha256": "012fc5d3b7b99732391fd40fc930af835958a5c2694de37afd924d716d382c6a",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "af8681408a5064db416f5faa41543c57bf38f7bec8285bdb974638b5bec0f0a1",
+   "bytes": 153211911
+  },
+  "coverage_summary": {
+   "sha256": "cde5e05cf4a829cf1eb71582061fabb2b31daa8660c349caedd2c0d5273cc1ea",
+   "bytes": 21137509
+  }
+ },
+ "not_included": "The full summaries and the build receipts, which hold local paths; their hashes are above and inside the summaries."
+}

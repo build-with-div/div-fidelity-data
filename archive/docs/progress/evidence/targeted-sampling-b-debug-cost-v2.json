@@ -1,0 +1,45 @@
+{
+ "what": "div-engine debug test suite (cargo test --package div-engine -j 2, CARGO_INCREMENTAL=0, RUST_MIN_STACK=4194304), main 0211362 against B 62c0cba, alternating, two rounds each, WSL on the i9-12900KF host; test_seconds sums each target's 'finished in' (compile excluded)",
+ "rounds": [
+  {
+   "round": 1,
+   "side": "main",
+   "commit": "0211362",
+   "targets": 75,
+   "passed": 585,
+   "failed": 0,
+   "ignored": 2,
+   "test_seconds": 450.2
+  },
+  {
+   "round": 1,
+   "side": "b",
+   "commit": "62c0cba",
+   "targets": 76,
+   "passed": 593,
+   "failed": 0,
+   "ignored": 2,
+   "test_seconds": 436.97
+  },
+  {
+   "round": 2,
+   "side": "main",
+   "commit": "0211362",
+   "targets": 75,
+   "passed": 585,
+   "failed": 0,
+   "ignored": 2,
+   "test_seconds": 464.48
+  },
+  {
+   "round": 2,
+   "side": "b",
+   "commit": "62c0cba",
+   "targets": 76,
+   "passed": 593,
+   "failed": 0,
+   "ignored": 2,
+   "test_seconds": 451.91
+  }
+ ]
+}
