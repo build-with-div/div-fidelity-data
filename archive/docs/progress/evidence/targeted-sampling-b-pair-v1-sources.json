@@ -1,0 +1,39 @@
+{
+ "pair": "RFC 0006 B, census and CSS Grid coverage, default profiles, no --profile, 16 jobs",
+ "chromium": {
+  "version": "147.0.7727.50",
+  "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848"
+ },
+ "coverage_ids_sha256": "179fe6619f732b7d80f8b34e5a5a5a039fdd9453aedc5e560ffcb2dcff8dd8af",
+ "base": {
+  "commit": "0211362dfc28b226c11a316e59640488b75bef78",
+  "measured_by": "SVG track, same run as the head",
+  "pixel_compare_sha256": "adbedaee3bfeba45323c4df07f42af6d9d462d144c9d891a2a9c127790ffc14f",
+  "build_receipt_sha256": "02b23720f3b5c0d17636cccf2298d559d142f031c233501f00f1a500e1cb63ca",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "7c3e1012a58b00d0eb4847e8deb0df19b6a7fa8886f0aa48ea1580e519930487",
+   "bytes": 153211911
+  },
+  "coverage_summary": {
+   "sha256": "80454781e8b3df189900c9268ff9fb8c25b04e91836876e1e41567e35a854ca0",
+   "bytes": 21137512
+  }
+ },
+ "head": {
+  "commit": "3c5939225aea70e3bb94d42b502757888434f12d",
+  "measured_by": "SVG track",
+  "pixel_compare_sha256": "bdbb348cd5c915a62fea3d224058e6a569ea2a896ca59cd804897ba86e63882c",
+  "build_receipt_sha256": "3df8224e9020d74ad270644e02f2d8afe0b864a0ad00d0f59ea167ffbee36d54",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "expanded_summary": {
+   "sha256": "188ca5dee73ca9d917938c0b9031a6cfab85d332bdfee2d8856712ce0ee88db7",
+   "bytes": 153211911
+  },
+  "coverage_summary": {
+   "sha256": "d76c65268d8707df73230e8ec58780741bdb3c026c4f588b2476b45a08a868ea",
+   "bytes": 21137509
+  }
+ },
+ "not_included": "The full summaries and the build receipts, which hold local paths; their hashes are above and inside the summaries."
+}

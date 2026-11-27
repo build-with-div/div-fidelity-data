@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23367,
-      "bytes": 782850961,
-      "sha256": "bbb29be97bac87655f8a7c0632d7d51a6811d37518cef027efa705f9aca60712"
+      "files": 23388,
+      "bytes": 782875650,
+      "sha256": "4f7ec45d75b7bbb7f2873bc21a5e08c11d371e21ccd88a4704da3d8a2a6840fb"
     }
   },
   "additions": [
@@ -721,6 +721,90 @@
     {
       "path": "archive/docs/progress/evidence/renderer-snapshot-div-coverage-zoom-v1.json",
       "source_commit": "3602e2027dac6d58d2ee8d4c64db5085a2755b9b"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-census-v1.json",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1.json",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-b-1.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-b-2.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-b-3.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-main-1.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-main-2.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/frame-cost-main-3.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-b-1.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-b-2.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-b-3.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-b-4.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-b-5.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-1.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-2.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-3.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-4.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-cost-v1/p7-main-5.log",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-coverage-v1.json",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-pair-v1-sources.json",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/targeted-sampling-b-sampled-v1.json",
+      "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
     }
   ]
 }

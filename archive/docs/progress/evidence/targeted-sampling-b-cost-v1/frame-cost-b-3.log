@@ -1,0 +1,33 @@
+
+running 3 tests
+test frame_cost_by_element_count_and_property ... viewport 1280x800 @1x, 120 frames after 10 warm-up, 60 Hz steps; profile: release
+| property | N | sample ms (med/p95) | update ms | raster ms | total ms |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Transform | 1 | 0.01 / 0.02 | 0.02 / 0.05 | 0.20 / 0.29 | 0.24 / 0.37 |
+| Transform | 10 | 0.07 / 0.09 | 0.06 / 0.08 | 0.26 / 0.34 | 0.40 / 0.52 |
+| Transform | 100 | 0.79 / 1.18 | 0.43 / 0.62 | 0.57 / 0.82 | 1.82 / 2.40 |
+| Transform | 1000 | 15.07 / 17.97 | 5.79 / 6.81 | 2.93 / 3.61 | 23.92 / 28.75 |
+| Opacity | 1 | 0.01 / 0.02 | 0.02 / 0.03 | 0.19 / 0.24 | 0.22 / 0.31 |
+| Opacity | 10 | 0.06 / 0.10 | 0.06 / 0.10 | 0.27 / 0.46 | 0.39 / 0.62 |
+| Opacity | 100 | 0.62 / 0.87 | 0.36 / 0.55 | 0.52 / 0.92 | 1.59 / 2.14 |
+| Opacity | 1000 | 12.69 / 14.82 | 4.81 / 5.92 | 2.49 / 3.32 | 20.23 / 23.53 |
+| BackgroundColor | 1 | 0.01 / 0.02 | 0.02 / 0.04 | 0.20 / 0.34 | 0.23 / 0.41 |
+| BackgroundColor | 10 | 0.07 / 0.10 | 0.05 / 0.07 | 0.25 / 0.45 | 0.37 / 0.63 |
+| BackgroundColor | 100 | 0.68 / 1.02 | 0.31 / 0.54 | 0.54 / 0.82 | 1.58 / 2.03 |
+| BackgroundColor | 1000 | 13.74 / 15.29 | 4.46 / 5.49 | 2.42 / 2.87 | 20.61 / 23.20 |
+| Width | 1 | 0.01 / 0.02 | 0.02 / 0.05 | 0.16 / 0.26 | 0.21 / 0.31 |
+| Width | 10 | 0.07 / 0.14 | 0.07 / 0.14 | 0.24 / 0.38 | 0.40 / 0.63 |
+| Width | 100 | 0.67 / 0.98 | 0.47 / 0.58 | 0.55 / 0.75 | 1.70 / 2.22 |
+| Width | 1000 | 13.48 / 15.89 | 6.26 / 7.79 | 2.36 / 2.84 | 22.12 / 25.45 |
+ok
+test idle_frame_cost_with_no_animation ... static 1280x800 raster: median 0.16 ms, p95 0.20 ms
+ok
+test start_cost_by_animation_count ... | N | cells only ms | cells + animate ms | per animate µs |
+| ---: | ---: | ---: | ---: |
+| 100 | 73.5 | 62.4 | -111 |
+| 300 | 67.5 | 73.3 | 19 |
+| 1000 | 94.4 | 123.0 | 29 |
+ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 14.47s
+
