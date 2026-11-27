@@ -277,6 +277,10 @@ f47220995e88c44d5813d82363c8921ca7dc7f39f86d511c0e1f0f61ca356341  335  archive/d
 bdfa8c225b8c9ee27082cf0ab600f8f2f5d9e100311b3e60637316984fce9167  315  archive/docs/progress/evidence/typed-style-constructors-census-v1.json
 e34a1411b0faef7ce8037290c99dac7a21a63b734304b005e120a494a7999e2f  320  archive/docs/progress/evidence/typed-style-constructors-coverage-v1.json
 fe6cd0acbd3a1f8bad04bbf40c11a29dcde71c331be9d1f7ac65341daa945569  5320  archive/docs/progress/evidence/unmitered-dotted-side-census-v1.json
+8b302b1b436cbd4a1e5a803d7eaa46e4433ae3b1a57f6e50a94688d816f0a51e  315  archive/docs/progress/evidence/var-div-census-v1.json
+2b0c05d6e45a8c76c57a9eb329ba8ce64525e63d927de94f6ab964c12557fb83  315  archive/docs/progress/evidence/var-div-census-zoom-v1.json
+5cdadbe083f9f8fd858c5f3638250a31044066419587b385669219d6daa3f0ee  320  archive/docs/progress/evidence/var-div-coverage-v1.json
+7cda6a5eae30608f29ab482a1ae38609e0cfb4004a392bff8038e9c07b4e426f  318  archive/docs/progress/evidence/var-div-coverage-zoom-v1.json
 c830b32e5792e132418f9a70c6e489afbaa7ba1e36f796d124223077f20d5ca2  3524  archive/docs/progress/evidence/vertical-central-baseline-census-v1.json
 ac4ad3b5949a807430415106e769711f05b3f8a29f463cd2284361cf6a6b98b2  315  archive/docs/progress/evidence/web-font-outline-release-div-census-v1.json
 f4ed176dd235aef7012dd1b385054b033b96c0cbe20d0716b5b22231c457712e  315  archive/docs/progress/evidence/web-font-outline-release-div-census-zoom-v1.json

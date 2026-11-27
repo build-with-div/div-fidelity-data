@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23395,
-      "bytes": 782902771,
-      "sha256": "eda2741157fea5a643cd4bcc097312306f6846507a8c24472b73959ed0666e52"
+      "files": 23399,
+      "bytes": 782904039,
+      "sha256": "ac6ca99df1dd28bf41e5d08a3ce79d9ac8387ea4998a57277fb55e528543680a"
     }
   },
   "additions": [
@@ -833,6 +833,22 @@
     {
       "path": "archive/docs/progress/evidence/targeted-sampling-b-sampled-v2.json",
       "source_commit": "62c0cbac1af6faa22ce187e6031c7b518668e018"
+    },
+    {
+      "path": "archive/docs/progress/evidence/var-div-census-v1.json",
+      "source_commit": "f9ac1638dc7b9ea735bcfe46e9fb3cd541b6464e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/var-div-coverage-v1.json",
+      "source_commit": "f9ac1638dc7b9ea735bcfe46e9fb3cd541b6464e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/var-div-census-zoom-v1.json",
+      "source_commit": "f9ac1638dc7b9ea735bcfe46e9fb3cd541b6464e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/var-div-coverage-zoom-v1.json",
+      "source_commit": "f9ac1638dc7b9ea735bcfe46e9fb3cd541b6464e"
     }
   ]
 }
