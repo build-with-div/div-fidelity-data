@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23388,
-      "bytes": 782875650,
-      "sha256": "4f7ec45d75b7bbb7f2873bc21a5e08c11d371e21ccd88a4704da3d8a2a6840fb"
+      "files": 23390,
+      "bytes": 782892824,
+      "sha256": "80035810d533c9de664be1c91e0ff301b7b6279e4a91a9aa28d6dbedbff07f17"
     }
   },
   "additions": [
@@ -805,6 +805,14 @@
     {
       "path": "archive/docs/progress/evidence/targeted-sampling-b-sampled-v1.json",
       "source_commit": "3c5939225aea70e3bb94d42b502757888434f12d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/html-dialog-coverage-v1.json",
+      "source_commit": "0cb8d8d5d3c12c0db2363474cd6bcfa08af1179d"
+    },
+    {
+      "path": "archive/docs/progress/evidence/html-dialog-coverage-v1-sources.json",
+      "source_commit": "0cb8d8d5d3c12c0db2363474cd6bcfa08af1179d"
     }
   ]
 }

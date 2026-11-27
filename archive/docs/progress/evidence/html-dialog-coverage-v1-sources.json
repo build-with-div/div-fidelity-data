@@ -1,0 +1,26 @@
+{
+ "run": "RFC 0015 3p, html_dialog coverage area, default profiles, 8 jobs, under the census lock (run5, 2026-11-27)",
+ "chromium": {
+  "version": "147.0.7727.50",
+  "binary_sha256": "0ba87684df0afc11faaea40ac57bd2f1d68b67191443b38215a36b90e6f08848"
+ },
+ "coverage_ids_sha256": "0153d68b1a871fa06be4fc6e082f4d886fba205fe54c684daef798bc53d1fa73",
+ "head": {
+  "commit": "035c3e112a60055c8ab47e8fc2d8b86df1b7f846",
+  "composition": "local merge, not pushed: div 0cb8d8d (components/dialog-porter) with engine's renderer snapshot fix 3602e20 (engine/snapshot-rule-freeze), which 3p merges after",
+  "measured_by": "components track",
+  "pixel_compare_sha256": "b15174a2e25b2b54ee6663e6afa9a21b14e7d1b60340ba94f786a6da90a32878",
+  "build_receipt_sha256": "b479fc3de801cd5292b5108d0550a9a11785bf33d5c4d2faf0f5241dcda8583a",
+  "skia_gn_args": "extra_cflags += [ \"-DSK_SUPPORT_LEGACY_CONIC_CHOP\", \"-DSK_ENABLE_LEGACY_SHADERCONTEXT\", \"-USK_ENABLE_AVX512_OPTS\", \"-DSK_AVOID_SLOW_RASTER_PIPELINE_BLURS\", \"-DSK_SUPPORT_LEGACY_ANISOTROPIC_MIPMAP_SCALE\", \"-DSK_SUPPORT_LEGACY_RRECT_TRANSFORM\", \"-DSK_LEGACY_INITWITHPREV_LAYER_SIZING\", \"-DSK_USE_FREETYPE_EMBOLDEN\", \"-DSK_GAMMA_EXPONENT=1.2\", \"-DSK_GAMMA_CONTRAST=0.2\", \"-USK_GAMMA_APPLY_TO_A8\", \"-fno-strict-aliasing\", \"-msse3\", \"-O2\" ]",
+  "coverage_summary": {
+   "sha256": "cf18f2beff821fb2536f1652fb0058624f7f1d4abf14a1c101fa5647cdf8d36a",
+   "bytes": 1317795
+  }
+ },
+ "evidence": {
+  "kind": "diagnostic-census",
+  "qualified": false,
+  "tolerance_pixels": 0
+ },
+ "not_included": "The full summary and the build receipt, which hold local paths; their hashes are above."
+}

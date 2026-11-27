@@ -92,6 +92,8 @@ c829d9d2f6bda5098829e0c7dadf22f4826a8df40b7504651ab314773fe56664  6512  archive/
 8121e796a9c26080732443ecbfabcef503a7a15f5fcd7fe662679b2fea3b874e  2587  archive/docs/progress/evidence/grid-placement-cursor-div-coverage-1x-v1.json
 94806fd485b06239540a215a92eb20ec114dafdd066859edffaf86db067584ac  7417  archive/docs/progress/evidence/grid-placement-cursor-div-coverage-zoom-v1.json
 dbfd118de1d6a8c81151796520c9b99191ed200a0bcfdbdc1d7795fa94f0d5a7  3081  archive/docs/progress/evidence/hline-run-spans-census-v1.json
+04a02fc8dcc8ad4f84a475457012c505b2d8fd5cad123852397413a74a5ec074  1643  archive/docs/progress/evidence/html-dialog-coverage-v1-sources.json
+75d43683bdc1163d7bd54cb12e608e4f7bb774d63bbef1817ccd798f1e3493dd  15531  archive/docs/progress/evidence/html-dialog-coverage-v1.json
 44264b9274eaf7c7b8da7843a3799d5d44b725152bb3b4b30b465f2193079a0f  3814  archive/docs/progress/evidence/inline-background-single-tile-census-v1.json
 f9e94d02966fc7d3590eb3c948b4cd58b61eff96b06cf098c041678d80fc1675  315  archive/docs/progress/evidence/internal-css-names-div-census-v1.json
 c22a188f5f8898502791f333feb9f14c42134e2594fe384f211c5527cb38d026  315  archive/docs/progress/evidence/internal-css-names-div-census-zoom-v1.json
