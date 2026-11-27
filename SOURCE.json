@@ -12,9 +12,9 @@
       "sha256": "f97af83d63fa429664d49a3ca02c2811abf223efdbad40a96281323ace1967a2"
     },
     "archive": {
-      "files": 23363,
-      "bytes": 782849693,
-      "sha256": "207deca6adc884f579ac64f85b4ef6975d2cd6eb91774eac0418361e4d5b4373"
+      "files": 23367,
+      "bytes": 782850961,
+      "sha256": "bbb29be97bac87655f8a7c0632d7d51a6811d37518cef027efa705f9aca60712"
     }
   },
   "additions": [
@@ -705,6 +705,22 @@
     {
       "path": "archive/docs/progress/evidence/partial-raster-a2-pair-v1-sources.json",
       "source_commit": "f158ff8162b1b0b20e169fe8748c91612e79269e"
+    },
+    {
+      "path": "archive/docs/progress/evidence/renderer-snapshot-div-census-v1.json",
+      "source_commit": "3602e2027dac6d58d2ee8d4c64db5085a2755b9b"
+    },
+    {
+      "path": "archive/docs/progress/evidence/renderer-snapshot-div-coverage-v1.json",
+      "source_commit": "3602e2027dac6d58d2ee8d4c64db5085a2755b9b"
+    },
+    {
+      "path": "archive/docs/progress/evidence/renderer-snapshot-div-census-zoom-v1.json",
+      "source_commit": "3602e2027dac6d58d2ee8d4c64db5085a2755b9b"
+    },
+    {
+      "path": "archive/docs/progress/evidence/renderer-snapshot-div-coverage-zoom-v1.json",
+      "source_commit": "3602e2027dac6d58d2ee8d4c64db5085a2755b9b"
     }
   ]
 }

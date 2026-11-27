@@ -191,6 +191,10 @@ c6abf6290411d823646d0340302666a64568fadcfde8743eadd49ce18c66b792  2364  archive/
 6162f84d111b1cd490f7bcb5ee791a4c0c428d318a153500a906a42f822a1d74  7540007  archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/census-rows.json
 1b73a9e8a0bbe661f9a96b7f7c5f8460a7294f1992934ba0db25ae42c966e6f7  1357362  archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/coverage-rows.json
 7cdc9748cfcb494d335d3870375973583a67cb902de3a93bd9a7b57c21dd0d42  8416  archive/docs/progress/evidence/real-zoom-baseline-2026-11-16/summary.json
+5334c62e7a66a81d321b95128f04214dbf4234c5b075bf068afb625f6da42941  315  archive/docs/progress/evidence/renderer-snapshot-div-census-v1.json
+b208d9502246af8111c96a042536bc65e6e498f2642ec92b944006ea2f6dc3ed  315  archive/docs/progress/evidence/renderer-snapshot-div-census-zoom-v1.json
+37ddd1aee385bd3aa6f665f3ca2adf72e5ac89d216c5572b5cebef77cab5aa78  320  archive/docs/progress/evidence/renderer-snapshot-div-coverage-v1.json
+95cc31f9ce032c687e86311f0eb6b9a47fb3961d689f975b3ed2662179353c81  318  archive/docs/progress/evidence/renderer-snapshot-div-coverage-zoom-v1.json
 d4583f0c9f20e05993e4e2e067b621394eefd6b10f8d44910a967fbde78e0c3d  1534  archive/docs/progress/evidence/repeat-scanline-tie-census-v1.json
 b9584c7aafbd90fd3415f74085c56cbfcb5a607292d50ebb00820391a6086935  22334  archive/docs/progress/evidence/replaced-image-rect-fill-census-v1.json
 1573d642a5c550a6ad8d4432d62ee6bce1c94f0ded4b3834a74b773744ec40f0  3933  archive/docs/progress/evidence/replaced-image-span-matrix-census-v1.json
