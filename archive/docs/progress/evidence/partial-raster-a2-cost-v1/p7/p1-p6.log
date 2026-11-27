@@ -1,0 +1,16 @@
+== main
+test p1_canvas_tag_is_transparent_and_zero_height_by_default ... P1 default <canvas> rects: view! SceneRect { x: 0.0, y: 15.0, width: 300.0, height: 0.0 }; created SceneRect { x: 0.0, y: 34.0, width: 300.0, height: 0.0 }; display:block SceneRect { x: 0.0, y: 38.0, width: 400.0, height: 0.0 }
+test p2_app_skia_surface_shows_in_a_canvas_element ... ok
+test p3_same_cache_key_shows_stale_pixels ... P3 resource ids ImageResourceId(0) ImageResourceId(1); pixel after blue frame: [255, 0, 0, 255]
+test p4_hidpi_backing_store_maps_one_to_one ... P4 device row at scale 2: [0, 255, 0, 255, 0, 255, 0, 255, 0, 255]
+test p5_overlay_and_scroll_clip_compose_normally ... ok
+test p6_pointer_coordinates_are_viewport_only ... P6 mousedown at viewport (110, 120); local by bounds (10, 20)
+test result: FAILED. 5 passed; 1 failed; 0 ignored; 0 measured; 1 filtered out; finished in 0.03s
+== a1
+test p1_canvas_tag_is_transparent_and_zero_height_by_default ... P1 default <canvas> rects: view! SceneRect { x: 0.0, y: 15.0, width: 300.0, height: 0.0 }; created SceneRect { x: 0.0, y: 34.0, width: 300.0, height: 0.0 }; display:block SceneRect { x: 0.0, y: 38.0, width: 400.0, height: 0.0 }
+test p2_app_skia_surface_shows_in_a_canvas_element ... ok
+test p3_same_cache_key_shows_stale_pixels ... P3 resource ids ImageResourceId(0) ImageResourceId(1); pixel after blue frame: [255, 0, 0, 255]
+test p4_hidpi_backing_store_maps_one_to_one ... P4 device row at scale 2: [0, 255, 0, 255, 0, 255, 0, 255, 0, 255]
+test p5_overlay_and_scroll_clip_compose_normally ... ok
+test p6_pointer_coordinates_are_viewport_only ... P6 mousedown at viewport (110, 120); local by bounds (10, 20)
+test result: FAILED. 5 passed; 1 failed; 0 ignored; 0 measured; 1 filtered out; finished in 0.02s

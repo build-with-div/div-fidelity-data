@@ -1,0 +1,42 @@
+{
+  "check": "RFC 0006 A2 cost, main against A2",
+  "main_commit": "aa61757d9472dc90cc117c98f63f11cf2da25aa9",
+  "a2_commit": "f158ff8162b1b0b20e169fe8748c91612e79269e",
+  "platform": "WSL2 Linux x86_64, 24 threads (i9-12900KF), release builds with main's Linux Skia flags, under the census lock, separate target directories per side; only A2's binaries have RetainedRaster symbols",
+  "frame_cost": {
+    "probe": "sample-motion 9b37723 measure_frame_cost.rs, copied unchanged into crates/divui/tests (A1's copy)",
+    "conditions": "1280x800 at 1x, 120 frames after 10 warm-up frames, 3 alternating rounds, load average 2.4 to 4.0",
+    "binaries_sha256": {
+      "main": "b925c0a1dc7c7cc2cc8ff7d23e54305563d1e804c3b6c2eab40942c6945ccba8",
+      "a2": "9ae125c909933afbb12f7756b082c30524959e100fcf80b7e526335315ee1784"
+    }
+  },
+  "p7": {
+    "probe": "sample-canvas docs/probes tests/probes.rs p7_per_frame_cost_of_the_image_workaround (A1's copy, with its P6 edit)",
+    "conditions": "640x480 canvas in a 1024x768 viewport, 65 frames, 5 alternating rounds, load average about 3.9",
+    "binaries_sha256": {
+      "main": "28449a10fe09c2a51e941d17de767c07234270162a305fb1490ae0c7522b7abe",
+      "a2": "83be277fb6db2684289c1a05080767123091d9979b393bec3cd6d118881e17ec"
+    },
+    "p1_p6": "the same binaries with --skip p7_: P1 to P5 pass with identical output on both sides; P6 fails on both at probes.rs:264"
+  },
+  "logs": {
+    "partial-raster-a2-cost-v1/frame-cost/a2-1.log": "a516107383b8b496f009fcc15a64e5b8a4aa3800aa87a0997ec82e8138d0ca22",
+    "partial-raster-a2-cost-v1/frame-cost/a2-2.log": "0e05e999386efca384f35ab36bcd1d8e62ac2ae7d850d305e038e9ea62001c1b",
+    "partial-raster-a2-cost-v1/frame-cost/a2-3.log": "0bc3f46490ecac04ab46ad513ca59b3b5256672e7b40b0b8e119f8a63a83f2f0",
+    "partial-raster-a2-cost-v1/frame-cost/main-1.log": "0a6335c35af66b8f93984ecfd6cf7899153c862a270d5004ff5b06f8216b9cce",
+    "partial-raster-a2-cost-v1/frame-cost/main-2.log": "6d9e631fb2f857f36c2b77c030a75a889b3ae3ba101d8717fccbcaf3f41f32e1",
+    "partial-raster-a2-cost-v1/frame-cost/main-3.log": "533e3a491d767532eb864111911384e7ee9ca6b00aa016af0690bc5e29a053c0",
+    "partial-raster-a2-cost-v1/p7/a2-1.log": "d681dd97460e1db8f07ec637a6c8709f6c4f5e7de5563811480c6e94da9ce75c",
+    "partial-raster-a2-cost-v1/p7/a2-2.log": "ff53480484a1157703401a50dab6784e90fa2f9398a73b43e3d90f8bac5dffc2",
+    "partial-raster-a2-cost-v1/p7/a2-3.log": "18f90357864f10edc1b50dcca84cf9d102253bdf0355bc7f35d1a585feaef9e8",
+    "partial-raster-a2-cost-v1/p7/a2-4.log": "0f7b15d85e92e7e7c6c388ed580e08f9c387c2d4e86d3496bba6d88f70bc53a4",
+    "partial-raster-a2-cost-v1/p7/a2-5.log": "8b753971423951f4eb8b3bb88c410919d536c274a8cfdafb633f39d563cb5118",
+    "partial-raster-a2-cost-v1/p7/main-1.log": "934886b4eee8499a42347a580ab2650627b045e8d7769165a9971196019a85ab",
+    "partial-raster-a2-cost-v1/p7/main-2.log": "d15539bd276f848838fe7abec381925e7a3099ac714d33c8b35163e5995f4807",
+    "partial-raster-a2-cost-v1/p7/main-3.log": "6881eb13d303e1d953e2f7a76ff42790f1c22f6f3a5ef4bb56334155ffa04576",
+    "partial-raster-a2-cost-v1/p7/main-4.log": "5e5ae5701763bc4066f4bb7d789e4aa8e7618a1cfdcf472e36632b2dac63ed68",
+    "partial-raster-a2-cost-v1/p7/main-5.log": "262d46fcedb65fb8bd93b823072a001397ba1eb5a56bec36fc2af4df4d62bff6",
+    "partial-raster-a2-cost-v1/p7/p1-p6.log": "411758301f3e9336586d976f1520fff7784005788ce3d2dadfb3cc4e60b790b2"
+  }
+}
